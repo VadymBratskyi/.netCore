@@ -1,0 +1,32 @@
+﻿@using FactoryPatern.Models.Car1
+@model Car
+  @{
+    ViewData["Title"] = "Factory";
+  }
+
+<h2>Factory</h2>
+<table>
+  <tr>
+    <td style="background-color: greenyellow; color: red;"><a href="@Url.Action("Index","Factory")">Car1</a></td>
+    <td><a href="@Url.Action("Index2","Factory")">Car2</a></td>
+  </tr>
+</table>
+  <table>
+    <tr>
+      <td>
+        <div>
+          <p>
+            @Model.Configure()<br />
+            @Model.AssembleBody()<br />
+            @Model.InstallEngine()<br />
+            @Model.Paint()<br />
+            @Model.InstallWheels()<br />
+          </p>
+        </div>
+      </td>
+      <td>
+        <img src="~/images/Factory.PNG" alt="" />
+      </td>
+    </tr>
+  </table>
+ 

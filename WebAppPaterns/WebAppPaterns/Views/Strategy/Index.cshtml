@@ -1,0 +1,32 @@
+﻿@using StrategyPatern.Models.Ducks
+@model List<DuckBase>
+
+@{
+    ViewData["Title"] = "Strategy";
+}
+
+<h2>Strategy</h2>
+<table>
+  <tr>
+    <td>
+      <p>
+        <h4>Ducks</h4>
+        @foreach (var duck in Model)
+        {
+            <p>
+              @duck.Display()<br/>
+              @duck.Swim()<br/>
+              @duck.Quack()<br/>
+              @duck.Fly()<br/>
+            </p>
+            @(new string('-', 20))
+        }
+      </p>
+    </td>
+    <td>
+      <img src="~/images/Strategy.PNG" alt=""/>
+    </td>
+  </tr>
+</table>
+
+

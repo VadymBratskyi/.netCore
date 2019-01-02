@@ -1,0 +1,40 @@
+﻿@using DecoratorPatern.Models.Beverage2
+@using DecoratorPatern.Models.Beverage2.Decorators
+@model List<BeverageBase>
+@{
+  ViewData["Title"] = "Decorator";
+}
+
+<h2>Decorator</h2>
+<table>
+  <tr>
+    <td>
+      <div>
+        <table>
+          <tr>
+            <td><a href="@Url.Action("Index","Decorator")">Beverage</a></td>
+            <td style="background-color: greenyellow; color: red;"><a href="@Url.Action("Index2","Decorator")">Beverage2</a></td>
+          </tr>
+        </table>
+        <p>
+          @foreach (var bv in Model)
+          {
+          <span>Beverage:</span>  @bv.GetDescription(); <span>Price:</span>  @bv.GetCoast(); <span>UAH</span><br />
+          }
+        </p>
+        @(new string('-',30))
+        <br />
+        @{
+          BeverageBase capuccino = new SugerCondiment(new MilkCondiment(new Esspresso()));
+          BeverageBase greenTeaSuger = new SugerCondiment(new GreenTea());
+        }
+        <span>Bevarage: </span> @capuccino.GetDescription(); <span>Price: </span> @capuccino.GetCoast();<br />
+        <span>Bevarage: </span> @greenTeaSuger.GetDescription(); <span>Price: </span> @greenTeaSuger.GetCoast();<br />
+      </div>
+    </td>
+    <td>
+      <img src="~/images/Decorator2.PNG" alt=""/>
+    </td>
+  </tr>
+</table>
+

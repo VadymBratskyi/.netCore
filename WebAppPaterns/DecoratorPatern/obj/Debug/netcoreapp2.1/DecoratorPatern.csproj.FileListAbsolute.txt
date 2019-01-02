@@ -1,0 +1,9 @@
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\DecoratorPatern\bin\Debug\netcoreapp2.1\DecoratorPatern.deps.json
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\DecoratorPatern\bin\Debug\netcoreapp2.1\DecoratorPatern.dll
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\DecoratorPatern\bin\Debug\netcoreapp2.1\DecoratorPatern.pdb
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\DecoratorPatern\obj\Debug\netcoreapp2.1\DecoratorPatern.csproj.CoreCompileInputs.cache
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\DecoratorPatern\obj\Debug\netcoreapp2.1\DecoratorPatern.AssemblyInfoInputs.cache
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\DecoratorPatern\obj\Debug\netcoreapp2.1\DecoratorPatern.AssemblyInfo.cs
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\DecoratorPatern\obj\Debug\netcoreapp2.1\DecoratorPatern.dll
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\DecoratorPatern\obj\Debug\netcoreapp2.1\DecoratorPatern.pdb
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\DecoratorPatern\obj\Debug\netcoreapp2.1\DecoratorPatern.csprojAssemblyReference.cache

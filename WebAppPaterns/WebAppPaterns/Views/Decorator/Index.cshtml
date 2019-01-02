@@ -1,0 +1,37 @@
+﻿@using DecoratorPatern.Models.Beverage
+@model List<BeverageBase>
+@{
+    ViewData["Title"] = "Decorator";
+}
+
+<h2>Decorator</h2>
+<table>
+  <tr>
+    <td>
+      <div>
+        <table>
+          <tr>
+            <td  style="background-color: greenyellow; color: red;"><a href="@Url.Action("Index","Decorator")">Beverage</a></td>
+            <td><a href="@Url.Action("Index2","Decorator")">Beverage2</a></td>
+          </tr>
+        </table>
+        <p>
+          @foreach (var bv in Model)
+          {
+            <span>Beverage:</span>
+            @bv.GetDescription()
+            ;
+            <span>Price:</span>
+            @bv.GetCoast()
+            ;
+            <span>UAH</span><br/>
+          }
+        </p>
+      </div>
+    </td>
+    <td>
+      <img src="~/images/Decorator.PNG" alt=""/>
+    </td>
+  </tr>
+</table>
+

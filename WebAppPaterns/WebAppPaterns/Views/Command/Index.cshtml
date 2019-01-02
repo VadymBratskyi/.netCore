@@ -1,0 +1,33 @@
+﻿@using CommandPatern.Models
+@model RemoteControl
+
+@{
+  ViewData["Title"] = "Command";
+}
+
+<h2>Command</h2>
+<table>
+  <tr>
+    <td>
+      <div>
+        <p>
+          <h3>Select the case:</h3>
+          @ViewBag.Menu
+        </p>
+        <p>
+          @Model.PerformAction(2);<br />
+          @Model.ToggleLight();<br />
+          @Model.ToggleLight();<br />
+          @Model.ToggleLight();<br />
+          @Model.UndoAction(2);
+        </p>
+      </div>
+    </td>
+    <td>
+      @*<img src="~/images/Decorator.PNG" alt="" />*@
+    </td>
+  </tr>
+</table>
+
+
+

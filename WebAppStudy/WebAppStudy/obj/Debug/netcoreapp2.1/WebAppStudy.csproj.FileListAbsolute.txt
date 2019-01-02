@@ -1,0 +1,16 @@
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\bin\Debug\netcoreapp2.1\WebAppStudy.deps.json
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\bin\Debug\netcoreapp2.1\WebAppStudy.runtimeconfig.json
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\bin\Debug\netcoreapp2.1\WebAppStudy.runtimeconfig.dev.json
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\bin\Debug\netcoreapp2.1\WebAppStudy.dll
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\bin\Debug\netcoreapp2.1\WebAppStudy.pdb
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\bin\Debug\netcoreapp2.1\WebAppStudy.Views.dll
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\obj\Debug\netcoreapp2.1\WebAppStudy.csprojAssemblyReference.cache
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\obj\Debug\netcoreapp2.1\WebAppStudy.csproj.CoreCompileInputs.cache
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\obj\Debug\netcoreapp2.1\WebAppStudy.RazorAssemblyInfo.cache
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\obj\Debug\netcoreapp2.1\WebAppStudy.RazorAssemblyInfo.cs
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\obj\Debug\netcoreapp2.1\WebAppStudy.AssemblyInfoInputs.cache
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\obj\Debug\netcoreapp2.1\WebAppStudy.AssemblyInfo.cs
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\obj\Debug\netcoreapp2.1\WebAppStudy.RazorTargetAssemblyInfo.cache
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\obj\Debug\netcoreapp2.1\WebAppStudy.dll
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\obj\Debug\netcoreapp2.1\WebAppStudy.pdb
+C:\Users\Vadim-PC\source\repos\WebAppStudy\WebAppStudy\obj\Debug\netcoreapp2.1\WebAppStudy.csproj.CopyComplete

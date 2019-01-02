@@ -1,0 +1,82 @@
+﻿@using ObserverPatern.Models.WrongNews.News
+@using ObserverPatern.Models.WrongNews.Widgest
+@model NewsAggregator
+
+@{
+    ViewData["Title"] = "Observer";
+}
+
+<h2>Observer</h2>
+<table>
+  <tr>
+    <td>
+      <div>
+        <h4>News</h4>
+        @*@{
+      var twitter = new TwiterObserver(Model);
+      var lenta = new LentaObserver(Model);
+      var tv = new TvObserver(Model);
+
+      Model.NewNewsAvailable();
+    }
+    <p>
+      @foreach (var obs in Model.GetObservers())
+      {
+        @obs.Display();<br />
+      }
+      @(new string('-', 20))
+    </p>
+
+    @{
+      twitter.RemoveFromSubject();
+
+      Model.NewNewsAvailable();
+    }
+    <p>
+      @foreach (var obs in Model.GetObservers())
+      {
+        @obs.Display();<br />
+      }
+      @(new string('-', 20))
+    </p>*@
+        @{
+            var twitter = new TwiterObserver();
+            var lenta = new LentaObserver();
+            var tv = new TvObserver();
+
+            Model.NewsChanged += new NewsChangedEventHandler(twitter.Update);
+            Model.NewsChanged += lenta.Update;
+            Model.NewsChanged += tv.Update;
+
+            twitter.SendDisplay += new GetDisplay(Model.GetDisplayTxt);
+            lenta.SendDisplay += Model.GetDisplayTxt;
+            tv.SendDisplay += Model.GetDisplayTxt;
+
+            Model.NewNewsAvailable();
+            foreach (var txt in Model._displays)
+            {
+              @txt<br />
+            }  
+        }
+        <p>
+          @(new string('-', 20))
+        </p>
+        @{
+            Model.NewsChanged -= twitter.Update;
+
+            Model.NewNewsAvailable();
+        }
+        <p>
+          @foreach (var txt in Model._displays)
+          {
+            @txt<br />
+          } 
+          @(new string('-', 20))
+        </p>
+      </div>
+    </td>
+    <td>
+      <img src="~/images/Observer.PNG" alt=""/>
+    </td>
+  </tr>
+</table>

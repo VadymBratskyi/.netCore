@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+  <style>
+    .toolbar ul {
+      display: table-row;
+    }
+    .toolbar ul li {
+      display: table-cell;
+      list-style-type: none;
+      padding: 2px;
+      vertical-align: middle;
+    }
+    .toolbar ul li a {
+      display: table-cell;
+      vertical-align: middle;
+      padding: 5px;
+      border: 1px solid black;
+    }
+    .toolbar ul li a:active {
+      background-color: green;
+    }
+
+  </style>
+</head>
+<body>
+<div style="float: left; padding-right: 5px">
+  Paterns:
+</div>
+<div class="toolbar">
+  <ul>
+    <li id="home">
+      <a href="@Url.Action("Index", "Home")">Home</a>
+      @*@Html.ActionLink("Home","Index","Home")*@
+    </li>
+    <li id="strategy">
+      <a href="@Url.Action("Index", "Strategy")">Patern Strategy</a>
+    </li>
+    <li id="observer">
+      <a href="@Url.Action("Index", "Observer")">Patern Observer</a>
+    </li>
+    <li id="decorator">
+      <a href="@Url.Action("Index", "Decorator")">Patern Decorator</a>
+    </li>
+    <li id="factory">
+      <a href="@Url.Action("Index", "Factory")">Patern Factory</a>
+    </li>
+    <li id="command">
+      <a href="@Url.Action("Index", "Command")">Patern Command</a>
+    </li>
+  </ul>
+</div>
+<div>
+  @RenderBody()
+</div>
+</body>
+</html>

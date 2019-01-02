@@ -1,0 +1,524 @@
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 240.7422ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/index  
+Request finished in 7.4006ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 344.1588ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/?token=123  
+Process request /
+Request finished in 20.868ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error page middleware will not be executed.
+Connection id "0HLJE31NC049B", Request id "0HLJE31NC049B:00000001": An unhandled exception was thrown by the application.
+Request finished in 517.6665ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error page middleware will not be executed.
+Connection id "0HLJE31NC049C", Request id "0HLJE31NC049C:00000001": An unhandled exception was thrown by the application.
+Request finished in 156.7625ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error page middleware will not be executed.
+Connection id "0HLJE31NC049D", Request id "0HLJE31NC049D:00000001": An unhandled exception was thrown by the application.
+Request finished in 258.3736ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error page middleware will not be executed.
+Connection id "0HLJE33J5VET8", Request id "0HLJE33J5VET8:00000001": An unhandled exception was thrown by the application.
+Request finished in 733.6456ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error page middleware will not be executed.
+Connection id "0HLJE33J5VET9", Request id "0HLJE33J5VET9:00000001": An unhandled exception was thrown by the application.
+Request finished in 172.8118ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE34FUKS39", Request id "0HLJE34FUKS39:00000001": An unhandled exception was thrown by the application.
+Request finished in 531.542ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE34FUKS3A", Request id "0HLJE34FUKS3A:00000001": An unhandled exception was thrown by the application.
+Request finished in 198.745ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE34FUKS3B", Request id "0HLJE34FUKS3B:00000001": An unhandled exception was thrown by the application.
+Request finished in 145.2032ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE354EN63U", Request id "0HLJE354EN63U:00000001": An unhandled exception was thrown by the application.
+Request finished in 571.5929ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE354EN63T", Request id "0HLJE354EN63T:00000001": An unhandled exception was thrown by the application.
+Request finished in 190.4289ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE37260LKG", Request id "0HLJE37260LKG:00000001": An unhandled exception was thrown by the application.
+Request finished in 537.3921ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE37260LKF", Request id "0HLJE37260LKF:00000001": An unhandled exception was thrown by the application.
+Request finished in 196.9041ms 200 
+Request starting HTTP/1.1 GET http://localhost:44300/  
+Request starting HTTP/1.1 DEBUG http://localhost:7333/  0
+Request finished in 71.5705ms 200 
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE3835TEB4", Request id "0HLJE3835TEB4:00000001": An unhandled exception was thrown by the application.
+Request finished in 524.4435ms 200 
+Request starting HTTP/1.1 GET http://localhost:44300/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE3835TEB5", Request id "0HLJE3835TEB5:00000002": An unhandled exception was thrown by the application.
+Request finished in 209.8071ms 200 
+Request starting HTTP/1.1 GET http://localhost:44300/  
+Process request /
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE3835TEB6", Request id "0HLJE3835TEB6:00000001": An unhandled exception was thrown by the application.
+Request finished in 155.4299ms 200 
+Request starting HTTP/1.1 DEBUG http://localhost:7333/  0
+Request starting HTTP/1.1 GET http://localhost:44300/  
+Request finished in 106.3745ms 200 
+Process request /
+Request finished in 323.5568ms 200 
+Request starting HTTP/1.1 GET http://localhost:44300/favicon.ico  
+Process request /favicon.ico
+Request finished in 16.2245ms 200 
+Request starting HTTP/1.1 DEBUG http://localhost:7333/  0
+Request starting HTTP/1.1 GET http://localhost:44300/  
+Request finished in 94.6477ms 200 
+Process request /
+Request finished in 324.767ms 200 
+Request starting HTTP/1.1 GET http://localhost:44300/favicon.ico  
+Process request /favicon.ico
+Request finished in 15.9901ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 324.79ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 404.0322ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 233.9459ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+Request finished in 211.7961ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+Request finished in 311.302ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 258.8466ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 265.2402ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 455.5874ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/home/index  
+Request finished in 10.7768ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/home/about  
+Request finished in 12.664ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE9UIR25SD", Request id "0HLJE9UIR25SD:00000001": An unhandled exception was thrown by the application.
+Request finished in 427.3532ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE9UIR25SC", Request id "0HLJE9UIR25SC:00000001": An unhandled exception was thrown by the application.
+Request finished in 165.2026ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJE9UIR25SE", Request id "0HLJE9UIR25SE:00000001": An unhandled exception was thrown by the application.
+Request finished in 154.5888ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA2GFP176", Request id "0HLJEA2GFP176:00000001": An unhandled exception was thrown by the application.
+Request finished in 422.5853ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA2GFP177", Request id "0HLJEA2GFP177:00000001": An unhandled exception was thrown by the application.
+Request finished in 199.8949ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA2GFP178", Request id "0HLJEA2GFP178:00000001": An unhandled exception was thrown by the application.
+Request finished in 139.0678ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA37OP72H", Request id "0HLJEA37OP72H:00000001": An unhandled exception was thrown by the application.
+Request finished in 423.9482ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA37OP72I", Request id "0HLJEA37OP72I:00000001": An unhandled exception was thrown by the application.
+Request finished in 164.9711ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA37OP72J", Request id "0HLJEA37OP72J:00000001": An unhandled exception was thrown by the application.
+Request finished in 168.2434ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA3HI2HV3", Request id "0HLJEA3HI2HV3:00000001": An unhandled exception was thrown by the application.
+Request finished in 546.8486ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA3HI2HV4", Request id "0HLJEA3HI2HV4:00000001": An unhandled exception was thrown by the application.
+Request finished in 187.4689ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA3M024NL", Request id "0HLJEA3M024NL:00000001": An unhandled exception was thrown by the application.
+Request finished in 552.3797ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA3M024NK", Request id "0HLJEA3M024NK:00000001": An unhandled exception was thrown by the application.
+Request finished in 177.7213ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA3M024NM", Request id "0HLJEA3M024NM:00000001": An unhandled exception was thrown by the application.
+Request finished in 145.6043ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 358.8973ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 258.4726ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 311.1214ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 19.4895ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 291.06ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 298.3125ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 17.7788ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 342.0072ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 15.9909ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 282.8556ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 703.5668ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 21.85ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 25.3629ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA7PHRGIO", Request id "0HLJEA7PHRGIO:00000001": An unhandled exception was thrown by the application.
+Request finished in 505.257ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEA7PHRGIP", Request id "0HLJEA7PHRGIP:00000001": An unhandled exception was thrown by the application.
+Request finished in 204.6603ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 500.7551ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 493.4029ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 701.4666ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 22.325ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 18.2944ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 628.9169ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 30.1538ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 24.6055ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 566.7129ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 19.3023ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 32.7348ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 65.4245ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 909.187ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 691.5769ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 446.3656ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/?token=123  
+Process request /
+Request finished in 27.3392ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/index  
+Request finished in 18.7735ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/about  
+Request finished in 9.5739ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/home/index  
+Request finished in 9.6642ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/home/about  
+Request finished in 26.42ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/time  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEI80604OH", Request id "0HLJEI80604OH:00000007": An unhandled exception was thrown by the application.
+Request finished in 373.0154ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/time  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEI80604OK", Request id "0HLJEI80604OK:00000001": An unhandled exception was thrown by the application.
+Request finished in 24455.1994ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 15714.6442ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/time  
+Request finished in 2035.1877ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 488.5804ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 501.2847ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 671.8325ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 698.5452ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 396.4119ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 560.2697ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 614.4949ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/Home/Index  
+Request finished in 21.2621ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 380.3413ms 404 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Route matched with {action = "Index", controller = "Home"}. Executing action WebAppStudy.Controllers.HomeController.Index (WebAppStudy)
+Executing action method WebAppStudy.Controllers.HomeController.Index (WebAppStudy) - Validation state: Valid
+Executed action method WebAppStudy.Controllers.HomeController.Index (WebAppStudy), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.6244ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 105.7205ms.
+Executed action WebAppStudy.Controllers.HomeController.Index (WebAppStudy) in 240.7278ms
+Request finished in 705.9598ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Route matched with {action = "Index", controller = "Home"}. Executing action WebAppStudy.Controllers.HomeController.Index (WebAppStudy)
+Authorization failed.
+Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+Executing ChallengeResult with authentication schemes ().
+AuthenticationScheme: Cookies was challenged.
+Executed action WebAppStudy.Controllers.HomeController.Index (WebAppStudy) in 114.714ms
+Request finished in 455.0217ms 302 
+Request starting HTTP/1.1 GET https://localhost:5001/Account/Login?ReturnUrl=%2F  
+Route matched with {action = "Login", controller = "Account"}. Executing action WebAppStudy.Controllers.AccountController.Login (WebAppStudy)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'UserContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (287ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [userstoredb];
+Executed DbCommand (70ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [userstoredb] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+Executed DbCommand (9ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Users] (
+    [Id] int NOT NULL IDENTITY,
+    [Email] nvarchar(max) NULL,
+    [Password] nvarchar(max) NULL,
+    CONSTRAINT [PK_Users] PRIMARY KEY ([Id])
+);
+Executing action method WebAppStudy.Controllers.AccountController.Login (WebAppStudy) - Validation state: Valid
+Executed action method WebAppStudy.Controllers.AccountController.Login (WebAppStudy), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.9737ms.
+Executing ViewResult, running view Login.
+Executed ViewResult - view Login executed in 86.6288ms.
+Executed action WebAppStudy.Controllers.AccountController.Login (WebAppStudy) in 13253.5191ms
+Request finished in 13343.2548ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/Account/Login?  
+Route matched with {action = "Login", controller = "Account"}. Executing action WebAppStudy.Controllers.AccountController.Login (WebAppStudy)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'UserContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (85ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE') SELECT 1 ELSE SELECT 0
+Executing action method WebAppStudy.Controllers.AccountController.Login (WebAppStudy) - Validation state: Valid
+Executed action method WebAppStudy.Controllers.AccountController.Login (WebAppStudy), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.1371ms.
+Executing ViewResult, running view Login.
+Executed ViewResult - view Login executed in 12.5687ms.
+Executed action WebAppStudy.Controllers.AccountController.Login (WebAppStudy) in 148.0314ms
+Request finished in 178.3116ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/Account/Login?  
+Route matched with {action = "Login", controller = "Account"}. Executing action WebAppStudy.Controllers.AccountController.Login (WebAppStudy)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'UserContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (8ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE') SELECT 1 ELSE SELECT 0
+Executing action method WebAppStudy.Controllers.AccountController.Login (WebAppStudy) - Validation state: Valid
+Executed action method WebAppStudy.Controllers.AccountController.Login (WebAppStudy), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0238ms.
+Executing ViewResult, running view Login.
+Executed ViewResult - view Login executed in 5.6858ms.
+Executed action WebAppStudy.Controllers.AccountController.Login (WebAppStudy) in 72.837ms
+Request finished in 172.8709ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Route matched with {action = "Index", controller = "Home"}. Executing action WebAppStudy.Controllers.HomeController.Index (WebAppStudy)
+Authorization failed.
+Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+Executing ChallengeResult with authentication schemes ().
+AuthenticationScheme: Cookies was challenged.
+Executed action WebAppStudy.Controllers.HomeController.Index (WebAppStudy) in 94.5791ms
+Request finished in 558.7745ms 302 
+Request starting HTTP/1.1 GET https://localhost:5001/Account/Login?ReturnUrl=%2F  
+Route matched with {action = "Login", controller = "Account"}. Executing action WebAppStudy.Controllers.AccountController.Login (WebAppStudy)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'UserContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (53ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE') SELECT 1 ELSE SELECT 0
+Executing action method WebAppStudy.Controllers.AccountController.Login (WebAppStudy) - Validation state: Valid
+Executed action method WebAppStudy.Controllers.AccountController.Login (WebAppStudy), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.3736ms.
+Executing ViewResult, running view Login.
+Executed ViewResult - view Login executed in 116.6012ms.
+Executed action WebAppStudy.Controllers.AccountController.Login (WebAppStudy) in 1224.4224ms
+Request finished in 1368.0098ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEL85IK30Q", Request id "0HLJEL85IK30Q:00000001": An unhandled exception was thrown by the application.
+Request finished in 1013.6891ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEL8MCNV34", Request id "0HLJEL8MCNV34:00000001": An unhandled exception was thrown by the application.
+Request finished in 890.395ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEL9GJLP8D", Request id "0HLJEL9GJLP8D:00000001": An unhandled exception was thrown by the application.
+Request finished in 1166.2704ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJEL9UU607L", Request id "0HLJEL9UU607L:00000001": An unhandled exception was thrown by the application.
+Request finished in 1031.4905ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJELAP6050E", Request id "0HLJELAP6050E:00000001": An unhandled exception was thrown by the application.
+Request finished in 985.3588ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJELFM31UAJ", Request id "0HLJELFM31UAJ:00000001": An unhandled exception was thrown by the application.
+Request finished in 1551.6604ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJELGKT2S4B", Request id "0HLJELGKT2S4B:00000001": An unhandled exception was thrown by the application.
+Request finished in 1337.3687ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/index  
+Request finished in 25.9992ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/about  
+Request finished in 8.9774ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/home/index  
+Request finished in 20.3676ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/time  
+Request finished in 26.3827ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJELGKT2S4C", Request id "0HLJELGKT2S4C:00000005": An unhandled exception was thrown by the application.
+Request finished in 463.1686ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJELHE22A3H", Request id "0HLJELHE22A3H:00000001": An unhandled exception was thrown by the application.
+Request finished in 1188.923ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+Request finished in 415.371ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+Request finished in 298.3174ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+Request finished in 326.1698ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+Request finished in 272.4113ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+Request finished in 350.1136ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+Request finished in 332.7834ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Process request /
+Request finished in 341.5421ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 413.6037ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJELO6L6HH9", Request id "0HLJELO6L6HH9:00000001": An unhandled exception was thrown by the application.
+Request finished in 1183.2208ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 404.0125ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJELPSTNHHQ", Request id "0HLJELPSTNHHQ:00000001": An unhandled exception was thrown by the application.
+Request finished in 1119.658ms 200 text/html;charset=utf-8

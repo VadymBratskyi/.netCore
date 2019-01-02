@@ -1,0 +1,9 @@
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\FactoryPatern\bin\Debug\netcoreapp2.1\FactoryPatern.deps.json
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\FactoryPatern\bin\Debug\netcoreapp2.1\FactoryPatern.dll
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\FactoryPatern\bin\Debug\netcoreapp2.1\FactoryPatern.pdb
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\FactoryPatern\obj\Debug\netcoreapp2.1\FactoryPatern.csprojAssemblyReference.cache
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\FactoryPatern\obj\Debug\netcoreapp2.1\FactoryPatern.csproj.CoreCompileInputs.cache
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\FactoryPatern\obj\Debug\netcoreapp2.1\FactoryPatern.AssemblyInfoInputs.cache
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\FactoryPatern\obj\Debug\netcoreapp2.1\FactoryPatern.AssemblyInfo.cs
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\FactoryPatern\obj\Debug\netcoreapp2.1\FactoryPatern.dll
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\FactoryPatern\obj\Debug\netcoreapp2.1\FactoryPatern.pdb

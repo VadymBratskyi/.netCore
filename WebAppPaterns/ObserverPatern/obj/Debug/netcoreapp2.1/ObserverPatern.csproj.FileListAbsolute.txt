@@ -1,0 +1,9 @@
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\bin\Debug\netcoreapp2.1\ObserverPatern.deps.json
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\bin\Debug\netcoreapp2.1\ObserverPatern.dll
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\bin\Debug\netcoreapp2.1\ObserverPatern.pdb
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.csprojAssemblyReference.cache
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.csproj.CoreCompileInputs.cache
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.AssemblyInfoInputs.cache
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.AssemblyInfo.cs
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.dll
+C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.pdb
