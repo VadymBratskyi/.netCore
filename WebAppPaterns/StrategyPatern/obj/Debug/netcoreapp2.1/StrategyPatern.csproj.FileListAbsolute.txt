@@ -7,3 +7,12 @@ C:\Users\Vadim-PC\source\repos\WebAppPaterns\StrategyPatern\obj\Debug\netcoreapp
 C:\Users\Vadim-PC\source\repos\WebAppPaterns\StrategyPatern\obj\Debug\netcoreapp2.1\StrategyPatern.AssemblyInfo.cs
 C:\Users\Vadim-PC\source\repos\WebAppPaterns\StrategyPatern\obj\Debug\netcoreapp2.1\StrategyPatern.dll
 C:\Users\Vadim-PC\source\repos\WebAppPaterns\StrategyPatern\obj\Debug\netcoreapp2.1\StrategyPatern.pdb
+D:\VadimB\Projects\.netCore\WebAppPaterns\StrategyPatern\bin\Debug\netcoreapp2.1\StrategyPatern.deps.json
+D:\VadimB\Projects\.netCore\WebAppPaterns\StrategyPatern\bin\Debug\netcoreapp2.1\StrategyPatern.dll
+D:\VadimB\Projects\.netCore\WebAppPaterns\StrategyPatern\bin\Debug\netcoreapp2.1\StrategyPatern.pdb
+D:\VadimB\Projects\.netCore\WebAppPaterns\StrategyPatern\obj\Debug\netcoreapp2.1\StrategyPatern.csprojAssemblyReference.cache
+D:\VadimB\Projects\.netCore\WebAppPaterns\StrategyPatern\obj\Debug\netcoreapp2.1\StrategyPatern.csproj.CoreCompileInputs.cache
+D:\VadimB\Projects\.netCore\WebAppPaterns\StrategyPatern\obj\Debug\netcoreapp2.1\StrategyPatern.AssemblyInfoInputs.cache
+D:\VadimB\Projects\.netCore\WebAppPaterns\StrategyPatern\obj\Debug\netcoreapp2.1\StrategyPatern.AssemblyInfo.cs
+D:\VadimB\Projects\.netCore\WebAppPaterns\StrategyPatern\obj\Debug\netcoreapp2.1\StrategyPatern.dll
+D:\VadimB\Projects\.netCore\WebAppPaterns\StrategyPatern\obj\Debug\netcoreapp2.1\StrategyPatern.pdb

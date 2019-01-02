@@ -7,3 +7,12 @@ C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp
 C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.AssemblyInfo.cs
 C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.dll
 C:\Users\Vadim-PC\source\repos\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.pdb
+D:\VadimB\Projects\.netCore\WebAppPaterns\ObserverPatern\bin\Debug\netcoreapp2.1\ObserverPatern.deps.json
+D:\VadimB\Projects\.netCore\WebAppPaterns\ObserverPatern\bin\Debug\netcoreapp2.1\ObserverPatern.dll
+D:\VadimB\Projects\.netCore\WebAppPaterns\ObserverPatern\bin\Debug\netcoreapp2.1\ObserverPatern.pdb
+D:\VadimB\Projects\.netCore\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.csprojAssemblyReference.cache
+D:\VadimB\Projects\.netCore\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.csproj.CoreCompileInputs.cache
+D:\VadimB\Projects\.netCore\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.AssemblyInfoInputs.cache
+D:\VadimB\Projects\.netCore\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.AssemblyInfo.cs
+D:\VadimB\Projects\.netCore\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.dll
+D:\VadimB\Projects\.netCore\WebAppPaterns\ObserverPatern\obj\Debug\netcoreapp2.1\ObserverPatern.pdb

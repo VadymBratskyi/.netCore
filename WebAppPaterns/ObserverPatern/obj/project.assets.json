@@ -682,23 +682,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vadim-PC\\.nuget\\packages\\": {},
+    "C:\\Users\\VBratskyi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vadim-PC\\source\\repos\\WebAppPaterns\\ObserverPatern\\ObserverPatern.csproj",
+      "projectUniqueName": "D:\\VadimB\\Projects\\.netCore\\WebAppPaterns\\ObserverPatern\\ObserverPatern.csproj",
       "projectName": "ObserverPatern",
-      "projectPath": "C:\\Users\\Vadim-PC\\source\\repos\\WebAppPaterns\\ObserverPatern\\ObserverPatern.csproj",
-      "packagesPath": "C:\\Users\\Vadim-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vadim-PC\\source\\repos\\WebAppPaterns\\ObserverPatern\\obj\\",
+      "projectPath": "D:\\VadimB\\Projects\\.netCore\\WebAppPaterns\\ObserverPatern\\ObserverPatern.csproj",
+      "packagesPath": "C:\\Users\\VBratskyi\\.nuget\\packages\\",
+      "outputPath": "D:\\VadimB\\Projects\\.netCore\\WebAppPaterns\\ObserverPatern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Vadim-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\VBratskyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

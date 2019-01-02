@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vadim-PC\\.nuget\\packages\\": {},
+    "C:\\Users\\VBratskyi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vadim-PC\\source\\repos\\WebAppPaterns\\FactoryPatern\\FactoryPatern.csproj",
+      "projectUniqueName": "D:\\VadimB\\Projects\\.netCore\\WebAppPaterns\\FactoryPatern\\FactoryPatern.csproj",
       "projectName": "FactoryPatern",
-      "projectPath": "C:\\Users\\Vadim-PC\\source\\repos\\WebAppPaterns\\FactoryPatern\\FactoryPatern.csproj",
-      "packagesPath": "C:\\Users\\Vadim-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vadim-PC\\source\\repos\\WebAppPaterns\\FactoryPatern\\obj\\",
+      "projectPath": "D:\\VadimB\\Projects\\.netCore\\WebAppPaterns\\FactoryPatern\\FactoryPatern.csproj",
+      "packagesPath": "C:\\Users\\VBratskyi\\.nuget\\packages\\",
+      "outputPath": "D:\\VadimB\\Projects\\.netCore\\WebAppPaterns\\FactoryPatern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Vadim-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\VBratskyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

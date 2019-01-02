@@ -7,3 +7,12 @@ C:\Users\Vadim-PC\source\repos\WebAppPaterns\CommandPatern\obj\Debug\netcoreapp2
 C:\Users\Vadim-PC\source\repos\WebAppPaterns\CommandPatern\obj\Debug\netcoreapp2.1\CommandPatern.dll
 C:\Users\Vadim-PC\source\repos\WebAppPaterns\CommandPatern\obj\Debug\netcoreapp2.1\CommandPatern.pdb
 C:\Users\Vadim-PC\source\repos\WebAppPaterns\CommandPatern\obj\Debug\netcoreapp2.1\CommandPatern.csprojAssemblyReference.cache
+D:\VadimB\Projects\.netCore\WebAppPaterns\CommandPatern\bin\Debug\netcoreapp2.1\CommandPatern.deps.json
+D:\VadimB\Projects\.netCore\WebAppPaterns\CommandPatern\bin\Debug\netcoreapp2.1\CommandPatern.dll
+D:\VadimB\Projects\.netCore\WebAppPaterns\CommandPatern\bin\Debug\netcoreapp2.1\CommandPatern.pdb
+D:\VadimB\Projects\.netCore\WebAppPaterns\CommandPatern\obj\Debug\netcoreapp2.1\CommandPatern.csprojAssemblyReference.cache
+D:\VadimB\Projects\.netCore\WebAppPaterns\CommandPatern\obj\Debug\netcoreapp2.1\CommandPatern.csproj.CoreCompileInputs.cache
+D:\VadimB\Projects\.netCore\WebAppPaterns\CommandPatern\obj\Debug\netcoreapp2.1\CommandPatern.AssemblyInfoInputs.cache
+D:\VadimB\Projects\.netCore\WebAppPaterns\CommandPatern\obj\Debug\netcoreapp2.1\CommandPatern.AssemblyInfo.cs
+D:\VadimB\Projects\.netCore\WebAppPaterns\CommandPatern\obj\Debug\netcoreapp2.1\CommandPatern.dll
+D:\VadimB\Projects\.netCore\WebAppPaterns\CommandPatern\obj\Debug\netcoreapp2.1\CommandPatern.pdb
