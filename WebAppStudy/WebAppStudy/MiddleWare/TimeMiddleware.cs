@@ -18,9 +18,10 @@ namespace WebAppStudy.MiddleWare
 
         public async Task InvokeAsync(HttpContext context, TimeService time)
         {
+            context.Response.ContentType = "text/html; charset=utf-8";
+
             if (context.Request.Path.Value.ToLower() == "/time")
-            {
-                context.Response.ContentType = "text/html; charset=utf-8";
+            {               
                 await context.Response.WriteAsync($"Текущая дата и время: {time?.Time} <br/>");
             }
             else

@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppStudy", "WebAppStudy\WebAppStudy.csproj", "{B78F19B0-58EA-4394-B260-E86DB3D2A49B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppAuthentication", "WebAppAuthentication\WebAppAuthentication.csproj", "{8F00B5ED-FDE0-4B8A-9F82-9BB5A2234E90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppAuthentication", "WebAppAuthentication\WebAppAuthentication.csproj", "{8F00B5ED-FDE0-4B8A-9F82-9BB5A2234E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebModelsApp", "WebModelsApp\WebModelsApp.csproj", "{322CBE38-F790-4215-BB29-4FB62EF2B159}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8F00B5ED-FDE0-4B8A-9F82-9BB5A2234E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F00B5ED-FDE0-4B8A-9F82-9BB5A2234E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F00B5ED-FDE0-4B8A-9F82-9BB5A2234E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322CBE38-F790-4215-BB29-4FB62EF2B159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322CBE38-F790-4215-BB29-4FB62EF2B159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322CBE38-F790-4215-BB29-4FB62EF2B159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322CBE38-F790-4215-BB29-4FB62EF2B159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

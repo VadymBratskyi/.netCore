@@ -22,5 +22,6 @@ namespace WebAppStudy.MiddleWare
         {
             return builder.UseMiddleware<TimeMiddleware>();
         }
+        
     }
 }

@@ -522,3 +522,336 @@ An unhandled exception has occurred while executing the request.
 The response has already started, the error handler will not be executed.
 Connection id "0HLJELPSTNHHQ", Request id "0HLJELPSTNHHQ:00000001": An unhandled exception was thrown by the application.
 Request finished in 1119.658ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 565.3843ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 17.1781ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJGMH6VLDUA", Request id "0HLJGMH6VLDUA:00000001": An unhandled exception was thrown by the application.
+Request finished in 475.2424ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJGMH6VLDUB", Request id "0HLJGMH6VLDUB:00000001": An unhandled exception was thrown by the application.
+Request finished in 283.4675ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJGMH6VLDUC", Request id "0HLJGMH6VLDUC:00000001": An unhandled exception was thrown by the application.
+Request finished in 182.7894ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJGMHHF4MHV", Request id "0HLJGMHHF4MHV:00000001": An unhandled exception was thrown by the application.
+Request finished in 408.8984ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJGMHHF4MI0", Request id "0HLJGMHHF4MI0:00000001": An unhandled exception was thrown by the application.
+Request finished in 169.7412ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJGMHHF4MI1", Request id "0HLJGMHHF4MI1:00000001": An unhandled exception was thrown by the application.
+Request finished in 168.9333ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJGMHRKLP84", Request id "0HLJGMHRKLP84:00000001": An unhandled exception was thrown by the application.
+Request finished in 406.7085ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJGMHRKLP85", Request id "0HLJGMHRKLP85:00000001": An unhandled exception was thrown by the application.
+Request finished in 167.3107ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 198.2535ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.6978ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/index  
+Request finished in 7.1223ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 9.9191ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/home/index  
+Request finished in 4.2897ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 4.7833ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/home/about  
+Request finished in 6.7346ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 8.9418ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 4.0161ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 5.2612ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/time  
+Request finished in 8.0165ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 7.563ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 159.596ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 15.3047ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 163.4469ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.5804ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 178.1805ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 11.0817ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 217.8939ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 11.6138ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+The response has already started, the error handler will not be executed.
+Connection id "0HLJGMK7285GC", Request id "0HLJGMK7285GC:00000001": An unhandled exception was thrown by the application.
+Request finished in 416.0156ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 195.0851ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.09ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 213.338ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 12.2607ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 3.8987ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 6.64ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 3.7409ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 5.3516ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 4.2172ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 5.8728ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+Request finished in 133.5401ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+An unhandled exception has occurred while executing the request.
+Request finished in 26.7438ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 194.1607ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 13.5529ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+An unhandled exception has occurred while executing the request.
+Request finished in 113.782ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+An unhandled exception has occurred while executing the request.
+Request finished in 22.8174ms 500 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 9616.6968ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 6552.0883ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 14.5404ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/contr/action  
+Request finished in 20.9752ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 17.4533ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/contr/action  
+Request finished in 4.365ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 8.6224ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 221.9767ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 12.7431ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/штвуч  
+Request finished in 3.9163ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 6.0716ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/index  
+Request finished in 9.6827ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 7.3286ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 3.7794ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 6.0197ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/controller/action  
+Request finished in 17.341ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 4.8513ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 247.8254ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.5798ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/controller/action  
+Request finished in 9.1756ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 7.4909ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/controller/action  
+Request finished in 7.047ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 12.922ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/asdsad/qweqwe  
+Request finished in 4.9475ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 9.1432ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 226.5317ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.1269ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/Router/rout  
+Request finished in 4.1178ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 8.157ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 53.6954ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.3989ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 231.8651ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.8745ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 45.4691ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 7.724ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/index  
+Request finished in 6.5332ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 6.2804ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/time  
+Request finished in 4.3291ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 15.2585ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 3.7416ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 5.0331ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 166.4002ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 11.8883ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 196.1406ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 11.489ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/time  
+Request finished in 16.6431ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 11.1981ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/ctr/act  
+Request finished in 28.0648ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 8.1737ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 223.7369ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.4941ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/ctr/act  
+Request finished in 13.1199ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 4.6261ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 51.4442ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 7.1191ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 43.2625ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 7.3674ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 185.07ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.6638ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/ctr/act  
+Request finished in 11.7392ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 3.8878ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 49.4477ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 17.1685ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 207.0283ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 11.6863ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/Control/Act  
+Request finished in 32.3757ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 7.902ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 190.7886ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.3245ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/asd/qwe/123  
+Request finished in 9.0643ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 13.7556ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 204.923ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.6375ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/myRout/asd  
+Request finished in 6.2137ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 3.7877ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/ctr/asd  
+Request finished in 17.0986ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 8.3931ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/ctr/asd/asd  
+Request finished in 6.2025ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 5.9029ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/muRout/asd/asd  
+Request finished in 4.0607ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 4.6399ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 53.0517ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 9.4364ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 96.1799ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 43.1345ms 200 
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 205.2957ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 12.9939ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/asd/qwe/123  
+Request finished in 16856.039ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 22.6029ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 192.3217ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.9444ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/qwe/asd/1q23  
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 199.9787ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 10.6786ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/qweasd123  
+Request finished in 10.3357ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 9.5191ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/qweasd/123  
+Request finished in 4.3647ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 9.2061ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/qwe/asd/123  
+Request finished in 16072.9933ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 31.0765ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/  
+Request finished in 197.7221ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 11.1834ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/qwe/asd/123  
+Request finished in 5884.4571ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+Request finished in 24.5013ms 200 text/html; charset=utf-8

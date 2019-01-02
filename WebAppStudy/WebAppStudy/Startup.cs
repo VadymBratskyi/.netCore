@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -47,11 +48,15 @@ namespace WebAppStudy
             services.AddTimeService();
             services.AddRandomService();
             services.AddCounterService();
+
+            services.AddRouting();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory logger, IMyServices my)
         {
+            
+
             env.EnvironmentName = EnvironmentName.Production;
 
             logger.AddFile(Path.Combine(env.WebRootPath, "logs/logger.txt"));
@@ -64,6 +69,35 @@ namespace WebAppStudy
                 home.Map("/index", Index);
                 home.Map("/about", About);
             });
+
+
+            // определяем обработчик маршрута
+            var myRouteHandler = new RouteHandler(Handle);
+            // создаем маршрут, используя обработчик
+            var routeBuilder = new RouteBuilder(app, myRouteHandler);
+
+            routeBuilder.MapRoute(
+                    name: "myRout",
+                    template: "myRout/{action}");
+
+            routeBuilder.MapRoute("{controller}/{action}/{id}",
+                async context =>
+                {
+                    context.Response.ContentType = "text/html; charset=utf-8";
+                    var controll = context.GetRouteValue("controller").ToString();
+                    var rData = context.GetRouteData();
+                    var val = rData.Values;
+                    var data = rData.DataTokens;
+                    var routs = rData.Routers;
+
+                    await context.Response.WriteAsync("Hello Rout Controller");
+                });
+
+            //routeBuilder.MapRoute("default", "{controller}/{action}/{id?}", new { controller = "myController", action = "myIndex" });
+
+
+            app.UseRouter(routeBuilder.Build());
+
 
             if (env.IsDevelopment())
             {
@@ -79,10 +113,12 @@ namespace WebAppStudy
                 await context.Response.WriteAsync("Error in your app");
             }));
 
+           
+
             app.UseStaticFiles();
 
             app.UseTimeMiddleWare();
-
+            
             app.UseCounterMiddleWare();
             
             //app.UseMiddleware<MyMiddleWare>();
@@ -92,7 +128,7 @@ namespace WebAppStudy
             {
                 route.MapRoute(
                     name: "default", 
-                    template: "{controller}/{action=Index}/{id?}");
+                    template: "{controller=Home}/{action=Index}/{id?}");
             });
 
 
@@ -135,6 +171,12 @@ namespace WebAppStudy
                 var ser = app.ApplicationServices.GetService<IMyServices>();
                 await context.Response.WriteAsync("About \r\n"+ser.Send());
             });
+        }
+
+        // собственно обработчик маршрута
+        private async Task Handle(HttpContext context)
+        {
+            await context.Response.WriteAsync("Hello ASP.NET Core!");
         }
     }
 }
