@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using WebModelsApp.Models;
 
 namespace WebModelsApp.Controllers
@@ -17,7 +18,13 @@ namespace WebModelsApp.Controllers
 
         public IActionResult Index()
         {
-            return View(db.Phones.ToList());
+            var vmodphone = new ViewModelPhone
+            {
+                Phones =  db.Phones.ToList(),
+                Phones2 =  db.Phones2.Include(o=>o.Company).ToList()
+            };
+
+            return View(vmodphone);
         }
 
         [HttpGet]
@@ -58,5 +65,11 @@ namespace WebModelsApp.Controllers
             //return RedirectToAction("GetJsonMobile");
             //return Redirect("GetJsonMobile");
         }
+    }
+
+    public class ViewModelPhone
+    {
+        public IEnumerable<Phone> Phones { get; set; }
+        public IEnumerable<Phone2> Phones2 { get; set; }
     }
 }

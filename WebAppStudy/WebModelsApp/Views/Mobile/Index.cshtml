@@ -1,4 +1,4 @@
-﻿@model IEnumerable<WebModelsApp.Models.Phone>
+﻿@model WebModelsApp.Controllers.ViewModelPhone
 
 @{
     ViewData["Title"] = "Index";
@@ -10,43 +10,85 @@
     <a asp-action="Create">Create New</a>
 </p>
 <table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Company)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Price)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Name)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Company)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Price)
-                </td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
-                    <a asp-action="Buy" asp-route-id="@item.Id">Buy</a>
-                </td>
-            </tr>
-        }
-    </tbody>
+  <thead>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      Company
+    </th>
+    <th>
+      Price
+    </th>
+    <th></th>
+  </tr>
+  </thead>
+  <tbody>
+  @foreach (var item in Model.Phones)
+  {
+    <tr>
+      <td>
+        @Html.DisplayFor(modelItem => item.Name)
+      </td>
+      <td>
+        @Html.DisplayFor(modelItem => item.Company)
+      </td>
+      <td>
+        @Html.DisplayFor(modelItem => item.Price)
+      </td>
+      <td>
+        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+        <a asp-action="Buy" asp-route-id="@item.Id">Buy</a>
+      </td>
+    </tr>
+  }
+  </tbody>
 </table>
+<p>
+  Phones2
+</p>
+<table class="table">
+  <thead>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      Company
+    </th>
+    <th>
+      Price
+    </th>
+    <th></th>
+  </tr>
+  </thead>
+  <tbody>
+  @foreach (var item in Model.Phones2)
+  {
+    <tr>
+      <td>
+        @Html.DisplayFor(modelItem => item.Name)
+      </td>
+      <td>
+        @Html.DisplayFor(modelItem => item.Company.Name)
+      </td>
+      <td>
+        @Html.DisplayFor(modelItem => item.Price)
+      </td>
+      <td>
+        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+        <a asp-action="Buy" asp-route-id="@item.Id">Buy</a>
+      </td>
+    </tr>
+  }
+  </tbody>
+</table>
+
 @section MySection{
     Все права защищены from INDEX PHONE. Site Vadim Bratskyi. 2019.
 }
