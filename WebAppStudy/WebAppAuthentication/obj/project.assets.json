@@ -12533,11 +12533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VadimB\\Projects\\.netCore\\WebAppStudy\\WebAppAuthentication\\WebAppAuthentication.csproj",
+      "projectUniqueName": "D:\\VadimB\\Projects\\GitHub\\.netCore\\WebAppStudy\\WebAppAuthentication\\WebAppAuthentication.csproj",
       "projectName": "WebAppAuthentication",
-      "projectPath": "D:\\VadimB\\Projects\\.netCore\\WebAppStudy\\WebAppAuthentication\\WebAppAuthentication.csproj",
+      "projectPath": "D:\\VadimB\\Projects\\GitHub\\.netCore\\WebAppStudy\\WebAppAuthentication\\WebAppAuthentication.csproj",
       "packagesPath": "C:\\Users\\VBratskyi\\.nuget\\packages\\",
-      "outputPath": "D:\\VadimB\\Projects\\.netCore\\WebAppStudy\\WebAppAuthentication\\obj\\",
+      "outputPath": "D:\\VadimB\\Projects\\GitHub\\.netCore\\WebAppStudy\\WebAppAuthentication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

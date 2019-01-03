@@ -21,7 +21,8 @@ namespace WebModelsApp.Controllers
         }
 
         [HttpGet]
-        public IActionResult Buy(int id) {
+        public IActionResult Buy(int id)
+        {
 
             ViewBag.PhoneId = id;
             return View();
@@ -34,6 +35,28 @@ namespace WebModelsApp.Controllers
             // сохраняем в бд все изменения
             db.SaveChanges();
             return "Спасибо, " + order.User + ", за покупку!";
+        }
+
+        public JsonResult GetJsonMobile() {
+
+            var phone = db.Phones.FirstOrDefault();
+            if (phone==null) {
+                return Json("Not found");
+            }
+            return Json(phone);
+        }
+
+        public IActionResult GetContent()
+        {           
+            return Content("Hello world");
+        }
+
+        public IActionResult RedirectResult() {
+
+            return RedirectToAction("Buy", new { id = 1});
+            //return RedirectToAction("Index", "Home");
+            //return RedirectToAction("GetJsonMobile");
+            //return Redirect("GetJsonMobile");
         }
     }
 }

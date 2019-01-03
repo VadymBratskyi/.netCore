@@ -1,7 +1,14 @@
-﻿@{
+﻿@inject WebModelsApp.Models.ITimeService TimeService
+
+
+@{
     ViewData["Title"] = "About";
 }
 <h2>@ViewData["Title"]</h2>
 <h3>@ViewData["Message"]</h3>
 
 <p>Use this area to provide additional information.</p>
+<p>@@inject TimeService @TimeService.Time</p>
+@section MySection{
+    Все права защищены from ABOUT. Site Vadim Bratskyi. 2019.
+}

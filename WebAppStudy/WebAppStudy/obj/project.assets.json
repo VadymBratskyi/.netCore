@@ -12533,11 +12533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VadimB\\Projects\\.netCore\\WebAppStudy\\WebAppStudy\\WebAppStudy.csproj",
+      "projectUniqueName": "D:\\VadimB\\Projects\\GitHub\\.netCore\\WebAppStudy\\WebAppStudy\\WebAppStudy.csproj",
       "projectName": "WebAppStudy",
-      "projectPath": "D:\\VadimB\\Projects\\.netCore\\WebAppStudy\\WebAppStudy\\WebAppStudy.csproj",
+      "projectPath": "D:\\VadimB\\Projects\\GitHub\\.netCore\\WebAppStudy\\WebAppStudy\\WebAppStudy.csproj",
       "packagesPath": "C:\\Users\\VBratskyi\\.nuget\\packages\\",
-      "outputPath": "D:\\VadimB\\Projects\\.netCore\\WebAppStudy\\WebAppStudy\\obj\\",
+      "outputPath": "D:\\VadimB\\Projects\\GitHub\\.netCore\\WebAppStudy\\WebAppStudy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

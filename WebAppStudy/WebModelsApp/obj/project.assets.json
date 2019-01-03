@@ -12533,11 +12533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VadimB\\Projects\\.netCore\\WebAppStudy\\WebModelsApp\\WebModelsApp.csproj",
+      "projectUniqueName": "D:\\VadimB\\Projects\\GitHub\\.netCore\\WebAppStudy\\WebModelsApp\\WebModelsApp.csproj",
       "projectName": "WebModelsApp",
-      "projectPath": "D:\\VadimB\\Projects\\.netCore\\WebAppStudy\\WebModelsApp\\WebModelsApp.csproj",
+      "projectPath": "D:\\VadimB\\Projects\\GitHub\\.netCore\\WebAppStudy\\WebModelsApp\\WebModelsApp.csproj",
       "packagesPath": "C:\\Users\\VBratskyi\\.nuget\\packages\\",
-      "outputPath": "D:\\VadimB\\Projects\\.netCore\\WebAppStudy\\WebModelsApp\\obj\\",
+      "outputPath": "D:\\VadimB\\Projects\\GitHub\\.netCore\\WebAppStudy\\WebModelsApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

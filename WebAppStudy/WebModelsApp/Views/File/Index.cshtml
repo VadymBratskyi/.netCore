@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+@*@Html.Partial("_GetMessage")*@
+@{ await Html.RenderPartialAsync("_GetMessage", new List<string> { "Lumia 950", "iPhone 6S", "Samsung Galaxy s 6", "LG G 4" });}
+
+@section MySection{
+    Все права защищены from INDEX FILE. Site Vadim Bratskyi. 2019.
+}

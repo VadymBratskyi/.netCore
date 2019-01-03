@@ -8,11 +8,13 @@ using WebModelsApp.Models;
 
 namespace WebModelsApp.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
 
-        public IActionResult Index()
+        public IActionResult Index([FromServices] ITimeService timeService)
         {
+            ViewBag.Time = timeService.Time;
+
             return View();
         }
 
