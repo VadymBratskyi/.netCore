@@ -8,6 +8,7 @@ namespace WebAppAuthentication.Models
 {
     public class UserContext: DbContext
     {
+        public DbSet<User2> Users2 { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
 
@@ -17,6 +18,7 @@ namespace WebAppAuthentication.Models
             Database.EnsureCreated();
         }
 
+       
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             string adminRoleName = "admin";

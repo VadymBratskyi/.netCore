@@ -9,19 +9,44 @@ using WebAppAuthentication.Models;
 
 namespace WebAppAuthentication.Controllers
 {
-    [Authorize]
+    //[Authorize]
     public class HomeController : Controller
     {
-        [AllowAnonymous]
+        //[AllowAnonymous]
+        //public IActionResult Index()
+        //{
+        //    if (User.Identity.IsAuthenticated)
+        //    {
+        //        return Content(User.Identity.Name);
+        //    }
+        //    return RedirectToAction("Login","Account");
+        //}
+
+        //[Authorize(Roles = "admin, user")]
+        //public IActionResult Index()
+        //{
+        //    if (User.Identity.IsAuthenticated)
+        //    {
+        //        return View();
+        //    }
+        //    return RedirectToAction("Login", "Account");
+        //}
+
+        //[Authorize(Roles = "admin")]
+        //public IActionResult About()
+        //{
+        //    ViewData["Message"] = "Your application description page.";
+
+        //    return View();
+        //}
+
+        [Authorize(Policy = "OnlyForLondon")]
         public IActionResult Index()
         {
-            if (User.Identity.IsAuthenticated)
-            {
-                return Content(User.Identity.Name);
-            }
-            return Content("не аутентифицирован");
+            return View();
         }
 
+        [Authorize(Policy = "OnlyForMicrosoft")]
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";

@@ -85,11 +85,15 @@
         </ul>
     </div>
     <div class="col-md-3">
-        <h2>Run &amp; Deploy</h2>
-        <ul>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkID=517851">Run your app</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkID=517853">Run tools such as EF migrations and more</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkID=398609">Publish to Microsoft Azure Web Apps</a></li>
-        </ul>
+      <h2>Run &amp; Deploy</h2>
+      @using System.Security.Claims
+
+      @foreach (var claim in User.Claims.ToList())
+      {
+        <p>@claim.Type : @claim.Value</p>
+      }
+      <div>Город: @User.FindFirst(x => x.Type == ClaimTypes.Locality).Value</div>
+      <div>Компания: @User.FindFirst(x => x.Type == "company").Value</div>
+      <div>Год: @User.FindFirst(x => x.Type == "year").Value</div>
     </div>
 </div>

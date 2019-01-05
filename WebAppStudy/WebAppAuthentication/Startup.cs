@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
@@ -51,6 +52,14 @@ namespace WebAppAuthentication
                     options.AccessDeniedPath = new PathString("/Account/Login");
                 });
 
+            services.AddAuthorization(opts => {
+                opts.AddPolicy("OnlyForLondon", policy => {
+                    policy.RequireClaim(ClaimTypes.Locality, "Лондон", "London");
+                });
+                opts.AddPolicy("OnlyForMicrosoft", policy => {
+                    policy.RequireClaim("company", "Microsoft");
+                });
+            });
 
             services.AddMvc()
                 .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
