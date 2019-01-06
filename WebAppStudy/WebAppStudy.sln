@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppAuthentication", "Web
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebModelsApp", "WebModelsApp\WebModelsApp.csproj", "{322CBE38-F790-4215-BB29-4FB62EF2B159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebIdentity", "WebIdentity\WebIdentity.csproj", "{0B740533-A4E4-4F4F-BE0C-C4B678FDB183}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebIdentity", "WebIdentity\WebIdentity.csproj", "{0B740533-A4E4-4F4F-BE0C-C4B678FDB183}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

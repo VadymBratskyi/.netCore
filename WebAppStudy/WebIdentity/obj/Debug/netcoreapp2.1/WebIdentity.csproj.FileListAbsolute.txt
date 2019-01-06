@@ -24,3 +24,7 @@ D:\job\GitHub\.netCore\WebAppStudy\WebIdentity\obj\Debug\netcoreapp2.1\WebIdenti
 D:\job\GitHub\.netCore\WebAppStudy\WebIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
 D:\job\GitHub\.netCore\WebAppStudy\WebIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
 D:\job\GitHub\.netCore\WebAppStudy\WebIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\job\GitHub\.netCore\WebAppStudy\WebIdentity\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+D:\job\GitHub\.netCore\WebAppStudy\WebIdentity\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+D:\job\GitHub\.netCore\WebAppStudy\WebIdentity\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+D:\job\GitHub\.netCore\WebAppStudy\WebIdentity\obj\Debug\netcoreapp2.1\Razor\Views\User\ChangePassword.g.cshtml.cs
