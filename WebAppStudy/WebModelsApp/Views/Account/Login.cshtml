@@ -1,0 +1,22 @@
+﻿@model WebModelsApp.Models.ViewModels.LoginViewModel
+
+<h2>LogIn ito the system</h2>
+<a href="@Url.Action("Register","Account")">Add new user</a>
+<form method="post" action="Login">
+  <div>
+    @Html.TextBox("Email")
+  </div>
+  <div>
+    @Html.Password("Password")
+  </div>
+  <div>
+    @Html.CheckBox("RememberMe", false)
+    <label for="RememberMe">RememberMe</label>
+  </div>
+  <div>
+    @Html.Hidden("ReturnUrl", "/Home/Index")
+  </div>
+  <div>
+    <input type="submit" value="Войти" />
+  </div>
+</form>   

@@ -106,3 +106,5 @@ D:\job\GitHub\.netCore\WebAppStudy\WebModelsApp\obj\Debug\netcoreapp2.1\WebModel
 D:\job\GitHub\.netCore\WebAppStudy\WebModelsApp\obj\Debug\netcoreapp2.1\WebModelsApp.dll
 D:\job\GitHub\.netCore\WebAppStudy\WebModelsApp\obj\Debug\netcoreapp2.1\WebModelsApp.pdb
 D:\job\GitHub\.netCore\WebAppStudy\WebModelsApp\obj\Debug\netcoreapp2.1\WebModelsApp.csproj.CopyComplete
+D:\job\GitHub\.netCore\WebAppStudy\WebModelsApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+D:\job\GitHub\.netCore\WebAppStudy\WebModelsApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs

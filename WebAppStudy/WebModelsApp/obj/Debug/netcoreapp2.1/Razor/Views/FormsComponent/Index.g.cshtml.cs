@@ -61,7 +61,7 @@ using WebModelsApp.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             BeginContext(0, 658, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f5d7ffc481dc45dc8a5bbb308bfd4001", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "929366a9bc094e77af99fe0f75a6c386", async() => {
                 BeginContext(20, 631, true);
                 WriteLiteral(@"
     <p>
@@ -115,7 +115,7 @@ using WebModelsApp.Models;
             WriteLiteral("\r\n<br />\r\n<br />\r\n<br />\r\n");
             EndContext();
             BeginContext(684, 388, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0730be377cf84b29a1e0ac9fdd9759e0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf0a11865d8f47b98b5f64e74e24ef1a", async() => {
                 BeginContext(719, 346, true);
                 WriteLiteral(@"
 
@@ -152,12 +152,12 @@ using WebModelsApp.Models;
             WriteLiteral("\r\n<br />\r\n<br />\r\n<br />\r\n");
             EndContext();
             BeginContext(1098, 465, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "19d15c2c90fb49df87c10a21dcf7a313", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c6083c9ab4a54e1489ec34d426db49a0", async() => {
                 BeginContext(1133, 109, true);
                 WriteLiteral("\r\n\r\n    <p>\r\n        <label for=\"phone\">Выберите модель:</label>\r\n        <select name=\"phone\">\r\n            ");
                 EndContext();
                 BeginContext(1242, 40, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8b50cb4d4b8e46d19078185cafdb2012", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cb38d369c81b4774862094b5842a0bb7", async() => {
                     BeginContext(1268, 5, true);
                     WriteLiteral("Apple");
                     EndContext();
@@ -179,7 +179,7 @@ using WebModelsApp.Models;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1296, 47, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dcdfb3f67b524905af6579ed706e138f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0bf318eedc034f51b85ddd88faa4695e", async() => {
                     BeginContext(1325, 9, true);
                     WriteLiteral("Microsoft");
                     EndContext();
@@ -201,7 +201,7 @@ using WebModelsApp.Models;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1357, 35, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "81f540e2bff040c39fd67da19d1e9a30", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "664c66bf2beb4fe5ac74bf0ac7265ba6", async() => {
                     BeginContext(1380, 3, true);
                     WriteLiteral("HTC");
                     EndContext();
@@ -223,7 +223,7 @@ using WebModelsApp.Models;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1406, 47, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "131fa92d6a734caa9274b384e330a42e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "73f9fb9774e14ae1a6d2c52ac1d94370", async() => {
                     BeginContext(1437, 7, true);
                     WriteLiteral("Samsung");
                     EndContext();
@@ -265,12 +265,12 @@ using WebModelsApp.Models;
             WriteLiteral("\r\n<br />\r\n<br />\r\n<br />\r\n");
             EndContext();
             BeginContext(1589, 483, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6ba35fb84d3048f4abef01afe7583576", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9c4adb3cf1e34013b766e0d8704229d1", async() => {
                 BeginContext(1625, 126, true);
                 WriteLiteral("\r\n\r\n    <p>\r\n        <label for=\"phones\">Выберите модель:</label><br />\r\n        <select multiple name=\"phones\">\r\n            ");
                 EndContext();
                 BeginContext(1751, 40, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b776f1335fb4fabb7f6adc875c8c608", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5e9c37544f1f45fa9fe8626301cacce4", async() => {
                     BeginContext(1777, 5, true);
                     WriteLiteral("Apple");
                     EndContext();
@@ -292,7 +292,7 @@ using WebModelsApp.Models;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1805, 47, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "75ad95159c384b07a836c084363cd5a2", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4e961a8f72704c8e83a3e974b05c1b42", async() => {
                     BeginContext(1834, 9, true);
                     WriteLiteral("Microsoft");
                     EndContext();
@@ -314,7 +314,7 @@ using WebModelsApp.Models;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1866, 35, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1042a2ebd3224f81bcf903656dec59a2", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a4300156a3124d80b4d390f8301c87d2", async() => {
                     BeginContext(1889, 3, true);
                     WriteLiteral("HTC");
                     EndContext();
@@ -336,7 +336,7 @@ using WebModelsApp.Models;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1915, 47, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a3db2e747bc74a01b6ec22bfacd1062c", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9c6a924d7e044e7ab5901f4d8d9a2ddd", async() => {
                     BeginContext(1946, 7, true);
                     WriteLiteral("Samsung");
                     EndContext();

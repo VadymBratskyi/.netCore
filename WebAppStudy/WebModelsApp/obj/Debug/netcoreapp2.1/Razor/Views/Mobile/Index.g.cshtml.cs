@@ -67,7 +67,7 @@ using WebModelsApp.Models;
             WriteLiteral("\r\n<h2>Index</h2>\r\n\r\n<p>\r\n    ");
             EndContext();
             BeginContext(120, 37, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9c7c99efebe94c17a31343b5bb135ba8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "21d8d33b354841f1bc5e21bf90f374dc", async() => {
                 BeginContext(143, 10, true);
                 WriteLiteral("Create New");
                 EndContext();
@@ -128,7 +128,7 @@ using WebModelsApp.Models;
             WriteLiteral("\r\n      </td>\r\n      <td>\r\n        ");
             EndContext();
             BeginContext(660, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3ca6491907c433381f4355818c60250", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f3cf7912b66a4ce1a2e7fde97b3f7bbb", async() => {
                 BeginContext(705, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -163,7 +163,7 @@ using WebModelsApp.Models;
             WriteLiteral(" |\r\n        ");
             EndContext();
             BeginContext(725, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7264047f87ce44a998f9c01162ffa784", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b81b5f815ae94b10abe0ed8cced9ca2d", async() => {
                 BeginContext(773, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -198,7 +198,7 @@ using WebModelsApp.Models;
             WriteLiteral(" |\r\n        ");
             EndContext();
             BeginContext(796, 57, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6843e20c367f44c2a311a50891e4758f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd0e3cafb1f34c399de5053a7b0628a2", async() => {
                 BeginContext(843, 6, true);
                 WriteLiteral("Delete");
                 EndContext();
@@ -233,7 +233,7 @@ using WebModelsApp.Models;
             WriteLiteral(" |\r\n        ");
             EndContext();
             BeginContext(865, 51, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f59f91c638a24f99b41f0f022270e7ac", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d2a59d013a4244bc9b79629fd8d73481", async() => {
                 BeginContext(909, 3, true);
                 WriteLiteral("Buy");
                 EndContext();
@@ -315,7 +315,7 @@ using WebModelsApp.Models;
             WriteLiteral("\r\n      </td>\r\n      <td>\r\n        ");
             EndContext();
             BeginContext(1492, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "abc582bca71b48ff98743be4caa08dc7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "19e1b27340fd4ab788f6099551b17509", async() => {
                 BeginContext(1537, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -350,7 +350,7 @@ using WebModelsApp.Models;
             WriteLiteral(" |\r\n        ");
             EndContext();
             BeginContext(1557, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2a9a69ca9bcf450a99278ee173683cbc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "56c25bb3264e44dabad298bbf5688879", async() => {
                 BeginContext(1605, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -385,7 +385,7 @@ using WebModelsApp.Models;
             WriteLiteral(" |\r\n        ");
             EndContext();
             BeginContext(1628, 57, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2c81de027c1a4155b2a454b745edf946", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f294bd2608a44a50a015365976a5c4cd", async() => {
                 BeginContext(1675, 6, true);
                 WriteLiteral("Delete");
                 EndContext();
@@ -420,7 +420,7 @@ using WebModelsApp.Models;
             WriteLiteral(" |\r\n        ");
             EndContext();
             BeginContext(1697, 51, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "47552da959754b959e443bc9c402f440", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a60385e0cbb942cca3f17b8e8de66fb5", async() => {
                 BeginContext(1741, 3, true);
                 WriteLiteral("Buy");
                 EndContext();

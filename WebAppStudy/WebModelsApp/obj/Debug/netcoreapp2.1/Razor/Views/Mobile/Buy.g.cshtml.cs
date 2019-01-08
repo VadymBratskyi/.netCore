@@ -64,7 +64,7 @@ using WebModelsApp.Models;
             WriteLiteral("\r\n<div>\r\n    <h3>Форма оформления покупки</h3>\r\n    <p>Для оформления покупки заполните следующие поля:</p>\r\n    ");
             EndContext();
             BeginContext(154, 626, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3ae9237b3d0f4d5aad1afe645ea8e905", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c32ea18b67a64d9cb9fbb76b5719aafe", async() => {
                 BeginContext(174, 30, true);
                 WriteLiteral("\r\n        <input type=\"hidden\"");
                 EndContext();
