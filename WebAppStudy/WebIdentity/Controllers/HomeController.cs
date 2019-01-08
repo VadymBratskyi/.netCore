@@ -22,6 +22,7 @@ namespace WebIdentity.Controllers
         }
 
         [AllowAnonymous]
+        [Authorize(Roles = "admin")]
         public IActionResult About()
         {
             if (User.Identity.IsAuthenticated)
