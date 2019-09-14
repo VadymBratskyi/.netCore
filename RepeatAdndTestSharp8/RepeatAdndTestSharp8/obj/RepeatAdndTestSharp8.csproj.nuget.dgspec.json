@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vadim\\source\\repos\\VadymBratskyi\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj": {}
+    "C:\\GithubProject\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vadim\\source\\repos\\VadymBratskyi\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj": {
+    "C:\\GithubProject\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vadim\\source\\repos\\VadymBratskyi\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj",
+        "projectUniqueName": "C:\\GithubProject\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj",
         "projectName": "RepeatAdndTestSharp8",
-        "projectPath": "C:\\Users\\Vadim\\source\\repos\\VadymBratskyi\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj",
+        "projectPath": "C:\\GithubProject\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vadim\\source\\repos\\VadymBratskyi\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\obj\\",
+        "outputPath": "C:\\GithubProject\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

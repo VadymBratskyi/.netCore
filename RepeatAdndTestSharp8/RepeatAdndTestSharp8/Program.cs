@@ -1,12 +1,149 @@
-﻿using System;
+﻿using RepeatAdndTestSharp8.Models.GC;
+using RepeatAdndTestSharp8.Recursia;
+using System;
+using System.Threading;
 
 namespace RepeatAdndTestSharp8
 {
     class Program
-    {
+    {                    
+       
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+
+            
+            //TestGurbeg();
+            //Console.ReadLine();
+
+            //Study st = new Study();
+            //st.Eat();
+            //st.Move();
+
+
+            //Person p1 = new Person { name = "Bill", age = 34 };
+            //Person p2 = new Person { name = "Tom", age = 23 };
+            //Person p3 = new Person { name = "Alice", age = 21 };
+
+            //Person[] people = new Person[] { p1, p2, p3 };
+
+            //Array.Sort(people);
+
+            //foreach (Person p in people)
+            //{
+            //    Console.WriteLine("{0} - {1}", p.name, p.age);
+            //}
+
+            //Person p1 = new Person() { name = "vados", age = 26, work = new Company() { Name = "Tera"} };
+            //Person p2 = (Person)p1.Clone();
+
+            //Console.WriteLine($"p1 {p1.name} {p1.work.Name}");
+            //p2.name = "lena";
+            //p2.work.Name = "Goog";
+            //Console.WriteLine($"p2 {p2.name} {p2.work.Name}");
+            //Console.WriteLine($"p1 {p1.name} {p1.work.Name}");
+
+
+            //try
+            //{
+            //    TestClass.Method1();
+            //}
+            //catch (DivideByZeroException ex)
+            //{
+            //    Console.WriteLine($"Catch в Main : {ex.Message}");
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("Блок finally в Main");
+            //}
+            //Console.WriteLine("Конец метода Main");
+
+
+
+            //Counter count = new Counter() { Seconds = 25 };
+
+            //int c = (int)count;
+            //Console.WriteLine(c);
+
+            //Counter count2 = 50;
+            //Console.WriteLine(count2.Seconds);
+
+            //Timer timer = count;
+            //Console.WriteLine($"{timer.Hours}:{timer.Minutes}:{timer.Seconds}"); // 0:1:55
+
+            //Counter counter2 = (Counter)timer;
+            //Console.WriteLine(counter2.Seconds);  //115
+
+            //Employee employee = new Employee("Tom", "Microsoft");
+            //People people = employee;   // преобразование от Employee к Person
+
+            //employee.Display();
+
+            //Console.WriteLine(((Employee)people).Company);
+
+            //var arr = new[] { "1", "2", "3" };
+            //foreach (var ar in arr) {
+            //    Console.Write(ar);
+            //}
+            //Console.WriteLine();
+
+            //ChangeArray(arr);
+
+            //Console.WriteLine();
+
+            //foreach (var ar in arr)
+            //{
+            //    Console.Write(ar);
+            //}
+
+
+            //Client user1 = new Client();
+            //user1[0] = new Phone() { Number = 123 };
+            //user1[1] = new Phone() { Number = 456 };
+            //user1[2] = new Phone() { Number = 789 };
+            //Client user2 = new Client();
+            //user2[0] = new Phone() { Number = 147 };
+            //user2[1] = new Phone() { Number = 258 };
+            //Client user3 = new Client();
+            //Client user4 = new Client();
+            //Client user5 = new Client();
+
+            //Client.DisplayCounter(); // 5
+
+            //user1.DisplayPhones();
+            //user2.DisplayPhones();
+
+            //Person p = new Person { name = "Tom", age = 23 };
+            //ChangePerson(p);
+
+            //Console.WriteLine(p.name); // Bill
+            //Console.WriteLine(p.age); // 45
+
+            //User tom = new User("ttt", 123);
+            //tom.DisplayInfo();
+
+            //var tuple = GetNamedValues(new int[] { 1, 2, 3, 4, 5, 6, 7 });
+            //Console.WriteLine(tuple.count);
+            //Console.WriteLine(tuple.sum);
         }
+
+        private static void TestGurbeg()
+        {
+            //Gurbeg p = null;
+            //try
+            //{
+            //    p = new Gurbeg();
+            //}
+            //finally {
+            //    if (p != null) {
+            //        p.Dispose();
+            //    }
+            //}
+            //=====
+            using (Gurbeg p = new Gurbeg())
+            {
+            }
+        }
+
     }
 }
