@@ -1,0 +1,362 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\WebAppPaterns\\WebAppPaterns.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\CommandPatern\\CommandPatern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\CommandPatern\\CommandPatern.csproj",
+        "projectName": "CommandPatern",
+        "projectPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\CommandPatern\\CommandPatern.csproj",
+        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\CommandPatern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\DecoratorPatern\\DecoratorPatern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\DecoratorPatern\\DecoratorPatern.csproj",
+        "projectName": "DecoratorPatern",
+        "projectPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\DecoratorPatern\\DecoratorPatern.csproj",
+        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\DecoratorPatern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\FactoryPatern\\FactoryPatern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\FactoryPatern\\FactoryPatern.csproj",
+        "projectName": "FactoryPatern",
+        "projectPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\FactoryPatern\\FactoryPatern.csproj",
+        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\FactoryPatern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\ObserverPatern\\ObserverPatern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\ObserverPatern\\ObserverPatern.csproj",
+        "projectName": "ObserverPatern",
+        "projectPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\ObserverPatern\\ObserverPatern.csproj",
+        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\ObserverPatern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\StrategyPatern\\StrategyPatern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\StrategyPatern\\StrategyPatern.csproj",
+        "projectName": "StrategyPatern",
+        "projectPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\StrategyPatern\\StrategyPatern.csproj",
+        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\StrategyPatern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\WebAppPaterns\\WebAppPaterns.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\WebAppPaterns\\WebAppPaterns.csproj",
+        "projectName": "WebAppPaterns",
+        "projectPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\WebAppPaterns\\WebAppPaterns.csproj",
+        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\WebAppPaterns\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\CommandPatern\\CommandPatern.csproj": {
+                "projectPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\CommandPatern\\CommandPatern.csproj"
+              },
+              "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\DecoratorPatern\\DecoratorPatern.csproj": {
+                "projectPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\DecoratorPatern\\DecoratorPatern.csproj"
+              },
+              "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\FactoryPatern\\FactoryPatern.csproj": {
+                "projectPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\FactoryPatern\\FactoryPatern.csproj"
+              },
+              "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\ObserverPatern\\ObserverPatern.csproj": {
+                "projectPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\ObserverPatern\\ObserverPatern.csproj"
+              },
+              "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\StrategyPatern\\StrategyPatern.csproj": {
+                "projectPath": "C:\\Users\\Vadim\\Source\\Repos\\VadymBratskyi\\.netCore\\WebAppPaterns\\StrategyPatern\\StrategyPatern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.jQuery.Unobtrusive.Ajax": {
+              "target": "Package",
+              "version": "[3.2.6, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
