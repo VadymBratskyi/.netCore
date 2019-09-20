@@ -1,4 +1,5 @@
-﻿using RepeatAdndTestSharp8.Models.GC;
+﻿using RepeatAdndTestSharp8.Models.Delrgates;
+using RepeatAdndTestSharp8.Models.GC;
 using RepeatAdndTestSharp8.Recursia;
 using System;
 using System.Threading;
@@ -12,7 +13,19 @@ namespace RepeatAdndTestSharp8
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            
+            OfferNetDelegates netDel = new OfferNetDelegates();
+            netDel.RunAction();
+            netDel.RunPredicate();
+            netDel.RunFunction();
+
+            //TestDelegate deleg = new TestDelegate();
+            //deleg.RunBankDelegate(); 
+            //deleg.RunDelegateAsParameter(); 
+            //deleg.RunMultipleMethod();
+            //deleg.RunOperatorDelegate();
+            //deleg.RunSomeMethod();
+            //deleg.RunTimeDelegte();
+
             //TestGurbeg();
             //Console.ReadLine();
 
