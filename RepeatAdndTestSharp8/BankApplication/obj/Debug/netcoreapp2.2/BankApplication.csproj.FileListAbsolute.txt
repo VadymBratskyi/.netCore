@@ -1,0 +1,14 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankApplication.deps.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankApplication.runtimeconfig.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankApplication.runtimeconfig.dev.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankApplication.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankApplication.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankLibrary.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.AssemblyInfoInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.AssemblyInfo.cs
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.csproj.CopyComplete
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.pdb

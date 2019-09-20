@@ -1,0 +1,9 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.deps.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfoInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfo.cs
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.pdb
