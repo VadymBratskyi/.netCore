@@ -1,4 +1,5 @@
-﻿using RepeatAdndTestSharp8.Models.Delrgates;
+﻿using RepeatAdndTestSharp8.FilesDirectories;
+using RepeatAdndTestSharp8.Models.Delrgates;
 using RepeatAdndTestSharp8.Models.GC;
 using RepeatAdndTestSharp8.Recursia;
 using System;
@@ -13,10 +14,38 @@ namespace RepeatAdndTestSharp8
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            OfferNetDelegates netDel = new OfferNetDelegates();
-            netDel.RunAction();
-            netDel.RunPredicate();
-            netDel.RunFunction();
+            Zip zip = new Zip("C:\\");
+            zip.RunCompressDEcompres();
+
+            //Files files = new Files("C:\\");
+            //files.GetFileInfo("myDir\\test\\fl3.txt");
+            //files.CreateFile("myDir\\test\\fl5.txt");
+            //files.DeleteFile("myDir\\test\\fl5.txt");
+            //files.MoveToFile("myDir\\test\\fl5.txt", "myDir\\vados\\fl5.txt");
+            //files.CopyToFile("myDir\\test\\fl3.txt", "myDir\\vados\\fl3.txt");
+            //files.RunWriteReadFileStream("myDir\\test\\fl3.txt"); 
+            //files.ReplaceFileStreamValue("myDir\\test\\fl3.txt"); 
+            //files.GetStreamWriter("myDir\\test\\fl3.txt");
+            //files.GetStreamReader("myDir\\test\\fl3.txt");
+
+            //Console.WriteLine();
+            //Directories dir = new Directories("C:\\");
+            //dir.CreateDirectory("myDir", "vados\\test\\vv");
+            //dir.GetDirectoryInfo("myDir\\vados\\test\\vv");
+            //dir.DirectoryMoveTo("myDir\\vados\\test", "myDir\\test");
+            //dir.DeleteDirective("myDir\\vados\\test\\vv");            
+            //Console.WriteLine();
+            //dir.GetDirectories();
+            //Console.WriteLine();
+            //dir.GetFiles("myDir\\test\\");
+            //DiscsInfo discs = new DiscsInfo();
+            //discs.GetDriveInfo();
+
+
+            //OfferNetDelegates netDel = new OfferNetDelegates();
+            //netDel.RunAction();
+            //netDel.RunPredicate();
+            //netDel.RunFunction();
 
             //TestDelegate deleg = new TestDelegate();
             //deleg.RunBankDelegate(); 
