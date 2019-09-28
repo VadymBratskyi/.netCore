@@ -1,14 +1,34 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "signature": "0e2a0fc087bfc32fcd188fee1ed11579c5b0bb86"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "RepeatAdndTestSharp8/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "SoapFormatter": "1.0.11"
+        },
         "runtime": {
           "RepeatAdndTestSharp8.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "SoapFormatter/1.0.11": {
+        "runtime": {
+          "lib/netstandard2.0/SoapFormatter.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.11.18748"
+          }
         }
       }
     }
@@ -18,6 +38,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "SoapFormatter/1.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zE2HkP26lkOcXvEVasjcQT7f4lZWPF+ThBLRLLWQaBz5Kabyr0rQUyBM0BSw7g6JddEqSK/BzhpVitJ0vAu4XA==",
+      "path": "soapformatter/1.0.11",
+      "hashPath": "soapformatter.1.0.11.nupkg.sha512"
     }
   }
 }

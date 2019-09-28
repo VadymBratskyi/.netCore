@@ -2,6 +2,7 @@
 using RepeatAdndTestSharp8.Models.Delrgates;
 using RepeatAdndTestSharp8.Models.GC;
 using RepeatAdndTestSharp8.Recursia;
+using RepeatAdndTestSharp8.SDesiarizable;
 using System;
 using System.Threading;
 
@@ -14,8 +15,21 @@ namespace RepeatAdndTestSharp8
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            Zip zip = new Zip("C:\\");
-            zip.RunCompressDEcompres();
+
+            SerializableDerializable serialize = new SerializableDerializable();
+            //serialize.GetNewtonsoftSerialization(); 
+            serialize.GetArrNewtonsoftSerialization();
+            //serialize.GetArrJSONSerialization(); 
+            //serialize.GetJSONSerialization();
+            //serialize.GetArrXMLSerialization();
+            //serialize.GetXMLSerialization();
+            //serialize.GetArrSOAPSerialization();
+            //serialize.GetSOAPSerialization();
+            //serialize.GetArrBinarySerialization();
+            //serialize.GetBinarySerialization();
+
+            //Zip zip = new Zip("C:\\");
+            //zip.RunCompressDEcompres();
 
             //Files files = new Files("C:\\");
             //files.GetFileInfo("myDir\\test\\fl3.txt");

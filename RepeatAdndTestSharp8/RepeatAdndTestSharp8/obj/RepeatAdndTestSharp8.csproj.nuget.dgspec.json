@@ -48,6 +48,14 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "SoapFormatter": {
+              "target": "Package",
+              "version": "[1.0.11, )"
             }
           },
           "imports": [

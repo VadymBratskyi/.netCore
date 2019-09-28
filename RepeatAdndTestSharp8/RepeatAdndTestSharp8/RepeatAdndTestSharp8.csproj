@@ -9,4 +9,9 @@
     <Folder Include="Models\Interfaces\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="SoapFormatter" Version="1.0.11" />
+  </ItemGroup>
+
 </Project>
