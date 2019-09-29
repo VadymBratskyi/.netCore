@@ -5,6 +5,7 @@ using RepeatAdndTestSharp8.Recursia;
 using RepeatAdndTestSharp8.SDesiarizable;
 using System;
 using System.Threading;
+using RepeatAdndTestSharp8.StringBuilder;
 
 namespace RepeatAdndTestSharp8
 {
@@ -15,10 +16,13 @@ namespace RepeatAdndTestSharp8
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
+            TestString str = new TestString();
+            str.GetRegex();
+            //str.GetStringBuilder();
 
-            SerializableDerializable serialize = new SerializableDerializable();
+            //SerializableDerializable serialize = new SerializableDerializable();
             //serialize.GetNewtonsoftSerialization(); 
-            serialize.GetArrNewtonsoftSerialization();
+            //serialize.GetArrNewtonsoftSerialization();
             //serialize.GetArrJSONSerialization(); 
             //serialize.GetJSONSerialization();
             //serialize.GetArrXMLSerialization();
