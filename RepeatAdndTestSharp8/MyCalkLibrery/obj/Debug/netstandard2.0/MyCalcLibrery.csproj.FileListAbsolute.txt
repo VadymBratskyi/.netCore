@@ -1,0 +1,9 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\MyCalkLibrery\bin\Debug\netstandard2.0\MyCalcLibrery.deps.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\MyCalkLibrery\bin\Debug\netstandard2.0\MyCalcLibrery.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\MyCalkLibrery\bin\Debug\netstandard2.0\MyCalcLibrery.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\MyCalkLibrery\obj\Debug\netstandard2.0\MyCalcLibrery.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\MyCalkLibrery\obj\Debug\netstandard2.0\MyCalcLibrery.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\MyCalkLibrery\obj\Debug\netstandard2.0\MyCalcLibrery.AssemblyInfoInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\MyCalkLibrery\obj\Debug\netstandard2.0\MyCalcLibrery.AssemblyInfo.cs
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\MyCalkLibrery\obj\Debug\netstandard2.0\MyCalcLibrery.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\MyCalkLibrery\obj\Debug\netstandard2.0\MyCalcLibrery.pdb
