@@ -1,0 +1,9 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamples\bin\Debug\netstandard2.0\AssertSamples.deps.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamples\bin\Debug\netstandard2.0\AssertSamples.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamples\bin\Debug\netstandard2.0\AssertSamples.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamples\obj\Debug\netstandard2.0\AssertSamples.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamples\obj\Debug\netstandard2.0\AssertSamples.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamples\obj\Debug\netstandard2.0\AssertSamples.AssemblyInfoInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamples\obj\Debug\netstandard2.0\AssertSamples.AssemblyInfo.cs
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamples\obj\Debug\netstandard2.0\AssertSamples.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamples\obj\Debug\netstandard2.0\AssertSamples.pdb

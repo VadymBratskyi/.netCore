@@ -1,0 +1,16 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\bin\Debug\AssertSamplesTest.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\bin\Debug\AssertSamplesTest.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\bin\Debug\AssertSamples.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\bin\Debug\AssertSamples.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\obj\Debug\AssertSamplesTest.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\obj\Debug\AssertSamplesTest.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\obj\Debug\AssertSamplesTest.csproj.CopyComplete
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\obj\Debug\AssertSamplesTest.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\AssertSamplesTest\obj\Debug\AssertSamplesTest.pdb

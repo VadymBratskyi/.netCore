@@ -22,5 +22,21 @@ namespace MyCalcTest
             //assert
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        public void Sum_30and20_50returned()
+        {
+            //arrange
+            var x = 30;
+            var y = 20;
+            int expected = 50;
+
+            //act
+            MyCalc c = new MyCalc();
+            var actual = c.Sum(x, y);
+
+            //assert
+            Assert.AreEqual(expected, actual);
+        }
     }
 }
