@@ -1,0 +1,8 @@
+C:\GitHub\.netCore\RepeatAdndTestSharp8\ThreadingLibrary\bin\Debug\netstandard2.0\ThreadingLibrary.deps.json
+C:\GitHub\.netCore\RepeatAdndTestSharp8\ThreadingLibrary\bin\Debug\netstandard2.0\ThreadingLibrary.dll
+C:\GitHub\.netCore\RepeatAdndTestSharp8\ThreadingLibrary\bin\Debug\netstandard2.0\ThreadingLibrary.pdb
+C:\GitHub\.netCore\RepeatAdndTestSharp8\ThreadingLibrary\obj\Debug\netstandard2.0\ThreadingLibrary.csprojAssemblyReference.cache
+C:\GitHub\.netCore\RepeatAdndTestSharp8\ThreadingLibrary\obj\Debug\netstandard2.0\ThreadingLibrary.AssemblyInfoInputs.cache
+C:\GitHub\.netCore\RepeatAdndTestSharp8\ThreadingLibrary\obj\Debug\netstandard2.0\ThreadingLibrary.AssemblyInfo.cs
+C:\GitHub\.netCore\RepeatAdndTestSharp8\ThreadingLibrary\obj\Debug\netstandard2.0\ThreadingLibrary.dll
+C:\GitHub\.netCore\RepeatAdndTestSharp8\ThreadingLibrary\obj\Debug\netstandard2.0\ThreadingLibrary.pdb
