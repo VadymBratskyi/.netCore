@@ -17,7 +17,7 @@ namespace AssertSamples
                 throw new ArgumentNullException("Parameter is null");
             }
 
-            return "Hello" + name;
+            return "Hello " + name;
         }
 
     }

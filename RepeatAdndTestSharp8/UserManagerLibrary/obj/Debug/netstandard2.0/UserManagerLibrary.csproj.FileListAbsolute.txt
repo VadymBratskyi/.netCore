@@ -1,0 +1,9 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\UserManagerLibrary\bin\Debug\netstandard2.0\UserManagerLibrary.deps.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\UserManagerLibrary\bin\Debug\netstandard2.0\UserManagerLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\UserManagerLibrary\bin\Debug\netstandard2.0\UserManagerLibrary.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\UserManagerLibrary\obj\Debug\netstandard2.0\UserManagerLibrary.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\UserManagerLibrary\obj\Debug\netstandard2.0\UserManagerLibrary.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\UserManagerLibrary\obj\Debug\netstandard2.0\UserManagerLibrary.AssemblyInfoInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\UserManagerLibrary\obj\Debug\netstandard2.0\UserManagerLibrary.AssemblyInfo.cs
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\UserManagerLibrary\obj\Debug\netstandard2.0\UserManagerLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\UserManagerLibrary\obj\Debug\netstandard2.0\UserManagerLibrary.pdb
