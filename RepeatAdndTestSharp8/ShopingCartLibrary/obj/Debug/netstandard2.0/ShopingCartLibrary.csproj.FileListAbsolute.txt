@@ -1,0 +1,9 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\bin\Debug\netstandard2.0\ShopingCartLibrary.deps.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\bin\Debug\netstandard2.0\ShopingCartLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\bin\Debug\netstandard2.0\ShopingCartLibrary.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.AssemblyInfoInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.AssemblyInfo.cs
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.pdb
