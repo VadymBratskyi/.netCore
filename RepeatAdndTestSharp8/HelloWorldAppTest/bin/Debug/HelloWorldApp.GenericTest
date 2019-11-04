@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GenericTest name="HelloWorldApp" storage="c:\vadimbratskyi\git\vadymbratskyi\.netcore\repeatadndtestsharp8\helloworldapptest\helloworldapp.generictest" id="1ad46a8e-6988-4824-9aa0-b22c075286a3" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Command filename="C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\bin\Debug\netcoreapp3.0\HelloWorldApp.exe" arguments="&quot;Hello World&quot;" workingDirectory="%TestOutputDirectory%" />
+  <SummaryXmlFile path="%TestOutputDirectory%\&lt;Enter summary file name here&gt;" />
+</GenericTest>

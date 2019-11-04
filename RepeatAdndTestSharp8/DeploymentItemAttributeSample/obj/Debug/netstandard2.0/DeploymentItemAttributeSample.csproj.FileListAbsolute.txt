@@ -1,0 +1,7 @@
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\bin\Debug\netstandard2.0\DeploymentItemAttributeSample.deps.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\bin\Debug\netstandard2.0\DeploymentItemAttributeSample.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\bin\Debug\netstandard2.0\DeploymentItemAttributeSample.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.AssemblyInfoInputs.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.AssemblyInfo.cs
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.pdb
