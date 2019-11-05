@@ -5,3 +5,4 @@ C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemA
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.AssemblyInfo.cs
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.dll
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.csprojAssemblyReference.cache

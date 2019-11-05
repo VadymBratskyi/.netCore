@@ -5,3 +5,4 @@ C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibr
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\obj\Debug\netstandard2.0\SimpleClassLibrary.AssemblyInfo.cs
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\obj\Debug\netstandard2.0\SimpleClassLibrary.dll
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\obj\Debug\netstandard2.0\SimpleClassLibrary.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\obj\Debug\netstandard2.0\SimpleClassLibrary.csprojAssemblyReference.cache
