@@ -1,0 +1,11 @@
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\bin\Debug\netcoreapp3.0\HelloWorldApp.exe
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\bin\Debug\netcoreapp3.0\HelloWorldApp.deps.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\bin\Debug\netcoreapp3.0\HelloWorldApp.runtimeconfig.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\bin\Debug\netcoreapp3.0\HelloWorldApp.runtimeconfig.dev.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\bin\Debug\netcoreapp3.0\HelloWorldApp.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\bin\Debug\netcoreapp3.0\HelloWorldApp.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\obj\Debug\netcoreapp3.0\HelloWorldApp.csprojAssemblyReference.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\obj\Debug\netcoreapp3.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\obj\Debug\netcoreapp3.0\HelloWorldApp.AssemblyInfo.cs
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\obj\Debug\netcoreapp3.0\HelloWorldApp.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\HelloWorldApp\obj\Debug\netcoreapp3.0\HelloWorldApp.pdb

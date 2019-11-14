@@ -1,0 +1,3 @@
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\b\InterfaceInjection\bin\Debug\InterfaceInjection.exe
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\004_InterfaceInjection\Debug\004_InterfaceInjection.csproj.CopyComplete
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\004_InterfaceInjection\Debug\InterfaceInjection.exe

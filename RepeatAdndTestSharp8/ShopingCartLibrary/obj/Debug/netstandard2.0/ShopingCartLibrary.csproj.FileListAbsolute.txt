@@ -7,3 +7,11 @@ C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\nets
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.AssemblyInfo.cs
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.dll
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\bin\Debug\netstandard2.0\ShopingCartLibrary.deps.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\bin\Debug\netstandard2.0\ShopingCartLibrary.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\bin\Debug\netstandard2.0\ShopingCartLibrary.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.csprojAssemblyReference.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.AssemblyInfoInputs.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.AssemblyInfo.cs
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ShopingCartLibrary\obj\Debug\netstandard2.0\ShopingCartLibrary.pdb

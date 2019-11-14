@@ -1,0 +1,7 @@
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\b\ShopingCartTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\b\ShopingCartTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\b\ShopingCartTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\b\ShopingCartTest\bin\Debug\ShopingCartTest.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\ShopingCartTest\Debug\ShopingCartTest.csprojAssemblyReference.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\ShopingCartTest\Debug\ShopingCartTest.csproj.CopyComplete
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\ShopingCartTest\Debug\ShopingCartTest.dll

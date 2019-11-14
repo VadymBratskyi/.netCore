@@ -1,0 +1,15 @@
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\bin\Debug\DeploymentItemAttributeSampleTest.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\bin\Debug\DeploymentItemAttributeSampleTest.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\bin\Debug\DeploymentItemAttributeSample.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\bin\Debug\DeploymentItemAttributeSample.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\obj\Debug\DeploymentItemAttributeSampleTest.csprojAssemblyReference.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\obj\Debug\DeploymentItemAttributeSampleTest.csproj.CopyComplete
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\obj\Debug\DeploymentItemAttributeSampleTest.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSampleTest\obj\Debug\DeploymentItemAttributeSampleTest.pdb

@@ -1,0 +1,6 @@
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\b\SimpleClassLibrary\Debug\netstandard2.0\SimpleClassLibrary.deps.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\b\SimpleClassLibrary\Debug\netstandard2.0\SimpleClassLibrary.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\SimpleClassLibrary\Debug\netstandard2.0\SimpleClassLibrary.AssemblyInfoInputs.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\SimpleClassLibrary\Debug\netstandard2.0\SimpleClassLibrary.AssemblyInfo.cs
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\SimpleClassLibrary\Debug\netstandard2.0\SimpleClassLibrary.csproj.CopyComplete
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\SimpleClassLibrary\Debug\netstandard2.0\SimpleClassLibrary.dll

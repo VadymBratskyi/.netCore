@@ -1,0 +1,6 @@
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\b\AssertSamples\Debug\netstandard2.0\AssertSamples.deps.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\b\AssertSamples\Debug\netstandard2.0\AssertSamples.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\AssertSamples\Debug\netstandard2.0\AssertSamples.AssemblyInfoInputs.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\AssertSamples\Debug\netstandard2.0\AssertSamples.AssemblyInfo.cs
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\AssertSamples\Debug\netstandard2.0\AssertSamples.csproj.CopyComplete
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\AssertSamples\Debug\netstandard2.0\AssertSamples.dll

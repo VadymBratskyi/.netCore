@@ -1,0 +1,4 @@
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\b\003_PropertyInjection\bin\Debug\003_PropertyInjection.exe.config
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\b\003_PropertyInjection\bin\Debug\003_PropertyInjection.exe
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\003_PropertyInjection\Debug\003_PropertyInjection.csproj.CopyComplete
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\.vs\RepeatAdndTestSharp8\v16\lut\0\i\003_PropertyInjection\Debug\003_PropertyInjection.exe

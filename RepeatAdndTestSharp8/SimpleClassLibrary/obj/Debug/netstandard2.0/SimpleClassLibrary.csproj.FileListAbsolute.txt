@@ -1,0 +1,8 @@
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\bin\Debug\netstandard2.0\SimpleClassLibrary.deps.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\bin\Debug\netstandard2.0\SimpleClassLibrary.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\bin\Debug\netstandard2.0\SimpleClassLibrary.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\obj\Debug\netstandard2.0\SimpleClassLibrary.AssemblyInfoInputs.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\obj\Debug\netstandard2.0\SimpleClassLibrary.AssemblyInfo.cs
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\obj\Debug\netstandard2.0\SimpleClassLibrary.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\obj\Debug\netstandard2.0\SimpleClassLibrary.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\SimpleClassLibrary\obj\Debug\netstandard2.0\SimpleClassLibrary.csprojAssemblyReference.cache

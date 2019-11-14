@@ -12,3 +12,16 @@ C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcore
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.csproj.CopyComplete
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.dll
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankApplication.deps.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankApplication.runtimeconfig.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankApplication.runtimeconfig.dev.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankApplication.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankApplication.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankLibrary.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\bin\Debug\netcoreapp2.2\BankLibrary.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.csprojAssemblyReference.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.AssemblyInfoInputs.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.AssemblyInfo.cs
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.csproj.CopyComplete
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankApplication\obj\Debug\netcoreapp2.2\BankApplication.pdb
