@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace LoggingLibrary
 {
-    class LogLevel
+    public enum LogLevel
     {
+        Info,
+        Warning,
+        Error
     }
 }

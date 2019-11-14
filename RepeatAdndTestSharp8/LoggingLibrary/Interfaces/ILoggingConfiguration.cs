@@ -8,5 +8,6 @@ namespace LoggingLibrary.Interfaces
 {
     public interface ILoggingConfiguration
     {
+        bool LogSteckFor(LogLevel level);
     }
 }

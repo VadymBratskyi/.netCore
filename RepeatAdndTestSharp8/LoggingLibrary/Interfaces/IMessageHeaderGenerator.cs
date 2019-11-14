@@ -8,5 +8,6 @@ namespace LoggingLibrary.Interfaces
 {
     public interface IMessageHeaderGenerator
     {
+        void CreateHeader(LogLevel level);
     }
 }

@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\LoggingConfiguration.cs" />
+    <Compile Include="Classes\MessageBodyGenerator.cs" />
+    <Compile Include="Classes\MessageHeaderGenerator.cs" />
+    <Compile Include="Classes\SensitiveDataScruber.cs" />
     <Compile Include="Interfaces\ILoggingConfiguration.cs" />
     <Compile Include="Interfaces\IMessageBodyGenerator.cs" />
     <Compile Include="Interfaces\IMessageHeaderGenerator.cs" />
@@ -49,8 +53,6 @@
     <Compile Include="LogLevel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Classes\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

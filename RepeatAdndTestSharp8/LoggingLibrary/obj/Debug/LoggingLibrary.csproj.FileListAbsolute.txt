@@ -1,0 +1,6 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibrary\bin\Debug\LoggingLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibrary\bin\Debug\LoggingLibrary.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibrary\obj\Debug\LoggingLibrary.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibrary\obj\Debug\LoggingLibrary.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibrary\obj\Debug\LoggingLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibrary\obj\Debug\LoggingLibrary.pdb
