@@ -8,3 +8,14 @@ C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ConsoleApp1\bin
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\ConsoleApp1\obj\Debug\001_Problem.csproj.CopyComplete
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ConsoleApp1\obj\Debug\001_Problem.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ConsoleApp1\obj\Debug\001_Problem.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ConsoleApp1\obj\Debug\001_Problem.csproj.CopyComplete
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

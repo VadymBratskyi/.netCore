@@ -1,0 +1,9 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\CustomerLibrary\bin\Debug\netstandard2.0\CustomerLibrary.deps.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\CustomerLibrary\bin\Debug\netstandard2.0\CustomerLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\CustomerLibrary\bin\Debug\netstandard2.0\CustomerLibrary.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\CustomerLibrary\obj\Debug\netstandard2.0\CustomerLibrary.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\CustomerLibrary\obj\Debug\netstandard2.0\CustomerLibrary.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\CustomerLibrary\obj\Debug\netstandard2.0\CustomerLibrary.AssemblyInfoInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\CustomerLibrary\obj\Debug\netstandard2.0\CustomerLibrary.AssemblyInfo.cs
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\CustomerLibrary\obj\Debug\netstandard2.0\CustomerLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\CustomerLibrary\obj\Debug\netstandard2.0\CustomerLibrary.pdb
