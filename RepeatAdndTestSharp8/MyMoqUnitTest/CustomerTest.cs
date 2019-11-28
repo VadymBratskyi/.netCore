@@ -179,6 +179,9 @@ namespace MyMoqUnitTest
 
         }
 
+		/// <summary>
+		/// проверка запуска двох методов !!!!! 
+		/// </summary>
         [TestMethod]
         public void Create_CHeckStatusLevel_Bronze_SaveShudBeCalled()
         {
@@ -231,6 +234,68 @@ namespace MyMoqUnitTest
 
         }
 
+		[TestMethod]
+		[ExpectedException(typeof(CustomerCreateException))]
+		public void Create_ExceptionShouldBeThrow() {
+			
+			CustomerTDO customerTDO = new CustomerTDO()
+			{
+				FirstName = "Ivan",
+				LastName = "Ivanow",
+				StatusLevel = StatusLevel.Gold
+			};
 
-    }
+			Mock<ICustomerService> service = new Mock<ICustomerService>();
+			Mock<ICustomerStatusFactory> factory = new Mock<ICustomerStatusFactory>();
+					
+			factory
+			.Setup(f => f.CreateAdreesFrom(It.IsAny<CustomerTDO>()))
+			.Throws<ArgumentNullException>();
+
+			CustomerService customerService = new CustomerService(service.Object, factory.Object);
+
+			customerService.CreateCustomerAdress(customerTDO);
+
+		}
+
+		[TestMethod]
+		public void Create_ShowTimeZone_AndCallSave()
+		{
+			
+			Mock<ICustomerService> service = new Mock<ICustomerService>();
+			Mock<IWorkStationSettings> work = new Mock<IWorkStationSettings>();
+
+			//work.SetupProperty(x => x.WorksationId, 111);//stub method
+			//service.SetupProperty(x => x.LocalTimeZone, It.IsAny<string>());
+			//or 
+			//work.SetupAllProperties();
+			//work.Object.WorksationId = 11;
+
+			work.Setup(w => w.WorksationId).Returns(111);
+			
+			CustomerService customerService = new CustomerService(service.Object, work.Object);
+
+			customerService.CreateWithProperty(new CustomerTDO());
+
+			service.VerifySet(x => x.LocalTimeZone = It.IsAny<string>());
+
+			service.Verify(x => x.Save(It.IsAny<Customer>()));
+
+		}
+
+		[TestMethod]
+		public void CreateCustomer_AndCallEvent()
+		{
+			Mock<ICustomerService> service = new Mock<ICustomerService>();
+			Mock<IMailAddressFactory> factory = new Mock<IMailAddressFactory>();
+
+			CustomerService customerService = new CustomerService(service.Object, factory.Object);
+			//init event
+			service.Raise(x => x.Notify += null, new NotifyEventArgs("Ivan"));
+			//customerService.CreateAdressAndEvent(new CustomerTDO());
+
+			factory.Verify(x => x.CreateMessage(It.IsAny<string>()));
+
+		}
+	}
 }

@@ -11,5 +11,6 @@ namespace CustomerLibrary.CLasses
         public Address(CustomerTDO customerTDO) {
             Email = customerTDO.LastName + customerTDO.FirstName + "@gmil.com";
         }
+
     }
 }

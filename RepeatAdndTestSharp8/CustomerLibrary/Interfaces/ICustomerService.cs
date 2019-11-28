@@ -9,5 +9,9 @@ namespace CustomerLibrary.Interfaces
     {
         void Save(Customer customer);
         void SaveExtended(Customer customer);
+
+		string LocalTimeZone { get; set; }
+
+		event EventHandler<NotifyEventArgs> Notify;
     }
 }
