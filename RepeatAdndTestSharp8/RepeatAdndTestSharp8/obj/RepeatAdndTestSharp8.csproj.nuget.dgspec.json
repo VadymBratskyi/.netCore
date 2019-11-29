@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VadimBratskyi\\Git\\VadymBratskyi\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj": {}
+    "C:\\GithubProject\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj": {}
   },
   "projects": {
-    "C:\\VadimBratskyi\\Git\\VadymBratskyi\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj": {
+    "C:\\GithubProject\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VadimBratskyi\\Git\\VadymBratskyi\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj",
+        "projectUniqueName": "C:\\GithubProject\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj",
         "projectName": "RepeatAdndTestSharp8",
-        "projectPath": "C:\\VadimBratskyi\\Git\\VadymBratskyi\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj",
-        "packagesPath": "C:\\Users\\v.bratskyi\\.nuget\\packages\\",
-        "outputPath": "C:\\VadimBratskyi\\Git\\VadymBratskyi\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\obj\\",
+        "projectPath": "C:\\GithubProject\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8.csproj",
+        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
+        "outputPath": "C:\\GithubProject\\.netCore\\RepeatAdndTestSharp8\\RepeatAdndTestSharp8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\v.bratskyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -57,16 +59,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }

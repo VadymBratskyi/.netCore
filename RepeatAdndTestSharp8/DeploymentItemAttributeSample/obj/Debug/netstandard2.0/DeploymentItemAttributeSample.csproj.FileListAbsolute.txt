@@ -6,3 +6,12 @@ C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemA
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.dll
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.pdb
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\bin\Debug\netstandard2.0\DeploymentItemAttributeSample.deps.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\bin\Debug\netstandard2.0\DeploymentItemAttributeSample.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\bin\Debug\netstandard2.0\DeploymentItemAttributeSample.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.AssemblyInfoInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.AssemblyInfo.cs
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\DeploymentItemAttributeSample\obj\Debug\netstandard2.0\DeploymentItemAttributeSample.pdb

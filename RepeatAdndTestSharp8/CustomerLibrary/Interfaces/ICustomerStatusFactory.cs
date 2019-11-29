@@ -8,5 +8,8 @@ namespace CustomerLibrary.Interfaces
     public interface ICustomerStatusFactory
     {
         StatusLevel CreateFrom(CustomerTDO customer);
-    }
+
+		Address CreateAdreesFrom(CustomerTDO customer);
+
+	}
 }

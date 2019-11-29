@@ -8,5 +8,6 @@ namespace LoggingLibrary.Interfaces
 {
     public interface ISensitiveDataScruber
     {
+        string ClearMessage(string message);
     }
 }

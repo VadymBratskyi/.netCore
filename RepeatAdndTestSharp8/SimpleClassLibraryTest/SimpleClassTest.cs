@@ -37,6 +37,7 @@ namespace SimpleClassLibraryTest
             int x = 10, y = 0;
 
             int actual = instance.Div(x, y);
+
         }
     }
 }

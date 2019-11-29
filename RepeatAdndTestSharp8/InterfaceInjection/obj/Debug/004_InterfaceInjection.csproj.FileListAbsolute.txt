@@ -8,3 +8,14 @@ C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\InterfaceInject
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\InterfaceInjection\obj\Debug\InterfaceInjection.exe
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\InterfaceInjection\obj\Debug\InterfaceInjection.pdb
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\InterfaceInjection\obj\Debug\004_InterfaceInjection.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\InterfaceInjection\bin\Debug\InterfaceInjection.exe
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\InterfaceInjection\bin\Debug\InterfaceInjection.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\InterfaceInjection\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\InterfaceInjection\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\InterfaceInjection\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\InterfaceInjection\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\InterfaceInjection\obj\Debug\004_InterfaceInjection.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\InterfaceInjection\obj\Debug\004_InterfaceInjection.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\InterfaceInjection\obj\Debug\004_InterfaceInjection.csproj.CopyComplete
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\InterfaceInjection\obj\Debug\InterfaceInjection.exe
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\InterfaceInjection\obj\Debug\InterfaceInjection.pdb

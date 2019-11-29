@@ -8,5 +8,6 @@ namespace LoggingLibrary.Interfaces
 {
     public interface IMessageBodyGenerator
     {
+        void CreateBody(string message);
     }
 }

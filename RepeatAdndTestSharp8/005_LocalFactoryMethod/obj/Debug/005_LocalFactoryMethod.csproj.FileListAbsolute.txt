@@ -7,3 +7,14 @@ C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\005_LocalFactor
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\obj\Debug\005_LocalFactoryMethod.csproj.CopyComplete
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\obj\Debug\005_LocalFactoryMethod.exe
 C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\obj\Debug\005_LocalFactoryMethod.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\bin\Debug\005_LocalFactoryMethod.exe
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\bin\Debug\005_LocalFactoryMethod.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\obj\Debug\005_LocalFactoryMethod.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\obj\Debug\005_LocalFactoryMethod.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\obj\Debug\005_LocalFactoryMethod.csproj.CopyComplete
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\obj\Debug\005_LocalFactoryMethod.exe
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\005_LocalFactoryMethod\obj\Debug\005_LocalFactoryMethod.pdb

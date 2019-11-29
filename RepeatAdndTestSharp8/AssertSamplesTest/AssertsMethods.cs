@@ -64,7 +64,7 @@ namespace AssertSamplesTest
             //arrange
             const int a = 10;
             const int b = 10;
-
+            
             //assert
             Assert.AreSame(a, b);
         }

@@ -1,3 +1,11 @@
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.deps.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csprojAssemblyReference.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfoInputs.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfo.cs
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.pdb
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.deps.json
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.dll
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.pdb
@@ -7,11 +15,3 @@ C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfo.cs
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.dll
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.pdb
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.deps.json
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.dll
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.pdb
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csprojAssemblyReference.cache
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfoInputs.cache
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfo.cs
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.dll
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.pdb
