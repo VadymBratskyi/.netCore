@@ -1,0 +1,16 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\bin\Debug\LoggingLibraryTest.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\bin\Debug\LoggingLibraryTest.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\bin\Debug\LoggingLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\bin\Debug\LoggingLibrary.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\obj\Debug\LoggingLibraryTest.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\obj\Debug\LoggingLibraryTest.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\obj\Debug\LoggingLibraryTest.csproj.CopyComplete
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\obj\Debug\LoggingLibraryTest.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\LoggingLibraryTest\obj\Debug\LoggingLibraryTest.pdb
