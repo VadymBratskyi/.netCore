@@ -14,7 +14,6 @@ C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\bin\Debug\ne
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\bin\Debug\netcoreapp2.2\RepeatAdndTestSharp8.dll
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\bin\Debug\netcoreapp2.2\RepeatAdndTestSharp8.pdb
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\obj\Debug\netcoreapp2.2\RepeatAdndTestSharp8.csprojAssemblyReference.cache
-C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\obj\Debug\netcoreapp2.2\RepeatAdndTestSharp8.csproj.CoreCompileInputs.cache
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\obj\Debug\netcoreapp2.2\RepeatAdndTestSharp8.AssemblyInfoInputs.cache
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\obj\Debug\netcoreapp2.2\RepeatAdndTestSharp8.AssemblyInfo.cs
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\obj\Debug\netcoreapp2.2\RepeatAdndTestSharp8.dll

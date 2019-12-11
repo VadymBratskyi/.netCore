@@ -6,18 +6,29 @@ using RepeatAdndTestSharp8.SDesiarizable;
 using System;
 using System.Threading;
 using RepeatAdndTestSharp8.StringBuilder;
+using RepeatAdndTestSharp8.WorkDelegate;
 
 namespace RepeatAdndTestSharp8
 {
     class Program
-    {                    
+    {        
        
         static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            TestString str = new TestString();
-            str.GetRegex();
+            WorkDelegates myDelegate = new WorkDelegates();
+            myDelegate.InitDelegateTimeOfDay();
+            myDelegate.RunOperation(TestOperation.Add2);
+            myDelegate.RunMultipleDelegate(TestOperation.HowAreYou, TestOperation.WhatAreYouDoing, () => { Console.WriteLine("FRom Anonimus"); });
+            myDelegate.RunAnyDeleagate();
+            int[] integers = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            int result1 = myDelegate.SumLymda(integers, (x => x > 5));
+            Console.WriteLine(result1); // 30
+
+
+            //TestString str = new TestString();
+            //str.GetRegex();
             //str.GetStringBuilder();
 
             //SerializableDerializable serialize = new SerializableDerializable();
