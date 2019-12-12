@@ -1,0 +1,14 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.deps.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.runtimeconfig.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.runtimeconfig.dev.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.csprojAssemblyReference.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.AssemblyInfoInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.AssemblyInfo.cs
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.pdb
