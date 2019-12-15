@@ -1,0 +1,8 @@
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\bin\Debug\netstandard2.0\TPLLibrary.deps.json
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\bin\Debug\netstandard2.0\TPLLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\bin\Debug\netstandard2.0\TPLLibrary.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.AssemblyInfoInputs.cache
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.AssemblyInfo.cs
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.csprojAssemblyReference.cache

@@ -18,3 +18,6 @@ C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\obj\Debug\ne
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\obj\Debug\netcoreapp2.2\RepeatAdndTestSharp8.AssemblyInfo.cs
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\obj\Debug\netcoreapp2.2\RepeatAdndTestSharp8.dll
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\obj\Debug\netcoreapp2.2\RepeatAdndTestSharp8.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\bin\Debug\netcoreapp2.2\TPLLibrary.dll
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\bin\Debug\netcoreapp2.2\TPLLibrary.pdb
+C:\GithubProject\.netCore\RepeatAdndTestSharp8\RepeatAdndTestSharp8\obj\Debug\netcoreapp2.2\RepeatAdndTestSharp8.csproj.CopyComplete
