@@ -14,9 +14,13 @@ namespace RepeatAdndTestSharp8
 
             
             TPLClass tpl = new TPLClass();
+            //tpl.RunParallerMethods();
+            //tpl.RunParallerForForEachMethods();
+            //tpl.WorkWithCancellationToken();
+            tpl.WorkWithCancellationTokenOutOfMethod();
             //tpl.RunDiferentTasks();
             //tpl.GetTaskWithMethod();
-            tpl.RunOuterInnerTasks();
+            //tpl.RunOuterInnerTasks();
 
 
 
@@ -199,6 +203,8 @@ namespace RepeatAdndTestSharp8
             //var tuple = GetNamedValues(new int[] { 1, 2, 3, 4, 5, 6, 7 });
             //Console.WriteLine(tuple.count);
             //Console.WriteLine(tuple.sum);
+
+            Console.ReadKey();
         }
 
         private static void TestGurbeg()
