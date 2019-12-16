@@ -69,6 +69,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuittest", "nuittest", "{6C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{5EE6960F-92A2-4F3E-850E-52C489B928CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPLLibrary", "TPLLibrary\TPLLibrary.csproj", "{0A6B389F-0794-48FF-8459-95FAC99C4A2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{5EE6960F-92A2-4F3E-850E-52C489B928CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EE6960F-92A2-4F3E-850E-52C489B928CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EE6960F-92A2-4F3E-850E-52C489B928CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6B389F-0794-48FF-8459-95FAC99C4A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6B389F-0794-48FF-8459-95FAC99C4A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6B389F-0794-48FF-8459-95FAC99C4A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6B389F-0794-48FF-8459-95FAC99C4A2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

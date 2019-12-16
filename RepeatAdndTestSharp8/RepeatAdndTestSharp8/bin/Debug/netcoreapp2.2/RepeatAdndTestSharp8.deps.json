@@ -9,7 +9,8 @@
       "RepeatAdndTestSharp8/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.2",
-          "SoapFormatter": "1.0.11"
+          "SoapFormatter": "1.0.11",
+          "TPLLibrary": "1.0.0"
         },
         "runtime": {
           "RepeatAdndTestSharp8.dll": {}
@@ -29,6 +30,11 @@
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.11.18748"
           }
+        }
+      },
+      "TPLLibrary/1.0.0": {
+        "runtime": {
+          "TPLLibrary.dll": {}
         }
       }
     }
@@ -52,6 +58,11 @@
       "sha512": "sha512-zE2HkP26lkOcXvEVasjcQT7f4lZWPF+ThBLRLLWQaBz5Kabyr0rQUyBM0BSw7g6JddEqSK/BzhpVitJ0vAu4XA==",
       "path": "soapformatter/1.0.11",
       "hashPath": "soapformatter.1.0.11.nupkg.sha512"
+    },
+    "TPLLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

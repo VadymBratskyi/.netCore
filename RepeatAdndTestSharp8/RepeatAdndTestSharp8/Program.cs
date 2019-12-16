@@ -1,12 +1,7 @@
-﻿using RepeatAdndTestSharp8.FilesDirectories;
-using RepeatAdndTestSharp8.Models.Delrgates;
-using RepeatAdndTestSharp8.Models.GC;
-using RepeatAdndTestSharp8.Recursia;
-using RepeatAdndTestSharp8.SDesiarizable;
+﻿using RepeatAdndTestSharp8.Models.GC;
 using System;
-using System.Threading;
-using RepeatAdndTestSharp8.StringBuilder;
-using RepeatAdndTestSharp8.WorkDelegate;
+using TPLLibrary;
+using System.Threading.Tasks;
 
 namespace RepeatAdndTestSharp8
 {
@@ -17,14 +12,22 @@ namespace RepeatAdndTestSharp8
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            WorkDelegates myDelegate = new WorkDelegates();
-            myDelegate.InitDelegateTimeOfDay();
-            myDelegate.RunOperation(TestOperation.Add2);
-            myDelegate.RunMultipleDelegate(TestOperation.HowAreYou, TestOperation.WhatAreYouDoing, () => { Console.WriteLine("FRom Anonimus"); });
-            myDelegate.RunAnyDeleagate();
-            int[] integers = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            int result1 = myDelegate.SumLymda(integers, (x => x > 5));
-            Console.WriteLine(result1); // 30
+            
+            TPLClass tpl = new TPLClass();
+            //tpl.RunDiferentTasks();
+            //tpl.GetTaskWithMethod();
+            tpl.RunOuterInnerTasks();
+
+
+
+            //WorkDelegates myDelegate = new WorkDelegates();
+            //myDelegate.InitDelegateTimeOfDay();
+            //myDelegate.RunOperation(TestOperation.Add2);
+            //myDelegate.RunMultipleDelegate(TestOperation.HowAreYou, TestOperation.WhatAreYouDoing, () => { Console.WriteLine("FRom Anonimus"); });
+            //myDelegate.RunAnyDeleagate();
+            //int[] integers = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            //int result1 = myDelegate.SumLymda(integers, (x => x > 5));
+            //Console.WriteLine(result1); // 30
 
 
             //TestString str = new TestString();
