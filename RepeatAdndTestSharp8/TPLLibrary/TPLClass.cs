@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace TPLLibrary
 {
-	public class TPLClass
+	public partial class TPLClass
 	{
 
 		public void RunParaller() {

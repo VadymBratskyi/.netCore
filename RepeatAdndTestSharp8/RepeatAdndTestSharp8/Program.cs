@@ -14,6 +14,10 @@ namespace RepeatAdndTestSharp8
 
             
             TPLClass tpl = new TPLClass();
+            //tpl.RunParallerMethods();
+            //tpl.RunParallerForForEachMethods();
+            //tpl.WorkWithCancellationToken();
+            tpl.WorkWithCancellationTokenOutOfMethod();
             //tpl.RunDiferentTasks();
             //tpl.GetTaskWithMethod();
             //tpl.RunOuterInnerTasks();
@@ -22,6 +26,8 @@ namespace RepeatAdndTestSharp8
             //tpl.RunContinuatTask(); 
             //tpl.RunChineContinuatTask();
 			tpl.RunParaller();
+            //tpl.RunOuterInnerTasks();
+
 
 
 			//WorkDelegates myDelegate = new WorkDelegates();
