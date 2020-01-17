@@ -6,11 +6,3 @@ C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.dll
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.pdb
 C:\GithubProject\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.csprojAssemblyReference.cache
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\TPLLibrary\bin\Debug\netstandard2.0\TPLLibrary.deps.json
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\TPLLibrary\bin\Debug\netstandard2.0\TPLLibrary.dll
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\TPLLibrary\bin\Debug\netstandard2.0\TPLLibrary.pdb
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.csprojAssemblyReference.cache
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.AssemblyInfoInputs.cache
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.AssemblyInfo.cs
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.dll
-C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\TPLLibrary\obj\Debug\netstandard2.0\TPLLibrary.pdb

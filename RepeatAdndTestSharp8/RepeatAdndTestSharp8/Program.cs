@@ -2,6 +2,7 @@
 using System;
 using TPLLibrary;
 using System.Threading.Tasks;
+using TPLLibrary.AsyncProgramm;
 
 namespace RepeatAdndTestSharp8
 {
@@ -12,21 +13,28 @@ namespace RepeatAdndTestSharp8
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            
-            TPLClass tpl = new TPLClass();
-            //tpl.RunParallerMethods();
-            //tpl.RunParallerForForEachMethods();
-            //tpl.WorkWithCancellationToken();
-            tpl.WorkWithCancellationTokenOutOfMethod();
-            //tpl.RunDiferentTasks();
-            //tpl.GetTaskWithMethod();
-            //tpl.RunOuterInnerTasks();
-            //tpl.RunArrayTasks();
-            //tpl.RunTaskReturnAny();
-            //tpl.RunContinuatTask(); 
-            //tpl.RunChineContinuatTask();
-			tpl.RunParaller();
-            //tpl.RunOuterInnerTasks();
+			AsyncPrograming asp = new AsyncPrograming();
+			//asp.RunFactorialAsync();
+			//asp.RunStreamAsync();
+			//asp.RunArrayFactorialAsync();
+			//asp.RunTaskWithExseption();
+			asp.RunAsyncWithCancellation();
+
+
+			//TPLClass tpl = new TPLClass();
+			//tpl.RunParallerMethods();
+			//tpl.RunParallerForForEachMethods();
+			//tpl.WorkWithCancellationToken();
+			//tpl.WorkWithCancellationTokenOutOfMethod();
+			//tpl.RunDiferentTasks();
+			//tpl.GetTaskWithMethod();
+			//tpl.RunOuterInnerTasks();
+			//tpl.RunArrayTasks();
+			//tpl.RunTaskReturnAny();
+			//tpl.RunContinuatTask(); 
+			//tpl.RunChineContinuatTask();
+			//tpl.RunParaller();
+			//tpl.RunOuterInnerTasks();
 
 
 

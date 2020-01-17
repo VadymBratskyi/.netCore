@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<UserDetails>
-  <User userId="Ivan" phone="123" mail="iii@mail.com"></User>
-  <User userId="Dmitriy" phone="456" mail="ddd@mail.com"></User>
-  <User userId="Vados" phone="789" mail="vvv@mail.com"></User>
-  <User userId="Roma" phone="147" mail="rrr@mail.com"></User>
-  <User userId="Sergiy" phone="258" mail="sss@mail.com"></User>
-</UserDetails>

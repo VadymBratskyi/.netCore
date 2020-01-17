@@ -1,0 +1,13 @@
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\bin\Debug\netcoreapp3.1\NLog.config
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\bin\Debug\netcoreapp3.1\NLogApp.exe
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\bin\Debug\netcoreapp3.1\NLogApp.deps.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\bin\Debug\netcoreapp3.1\NLogApp.runtimeconfig.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\bin\Debug\netcoreapp3.1\NLogApp.runtimeconfig.dev.json
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\bin\Debug\netcoreapp3.1\NLogApp.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\bin\Debug\netcoreapp3.1\NLogApp.pdb
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\bin\Debug\netcoreapp3.1\NLog.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\obj\Debug\netcoreapp3.1\NLogApp.AssemblyInfoInputs.cache
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\obj\Debug\netcoreapp3.1\NLogApp.AssemblyInfo.cs
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\obj\Debug\netcoreapp3.1\NLogApp.csproj.CopyComplete
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\obj\Debug\netcoreapp3.1\NLogApp.dll
+C:\VadimBratskyi\Git\VadymBratskyi\.netCore\RepeatAdndTestSharp8\NLogApp\obj\Debug\netcoreapp3.1\NLogApp.pdb

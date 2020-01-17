@@ -9,12 +9,15 @@ namespace TPLLibrary
 
 		public void RunParaller() {
 
-			Parallel.Invoke(Display,
-			 () => {
-				 Console.WriteLine($"Выполняется задача {Task.CurrentId}");
-				 Thread.Sleep(3000);
-			 },
-			 () => Factorial(5));
+			Parallel.Invoke(
+				
+			Display,
+				 () => {
+					 Console.WriteLine($"Выполняется задача {Task.CurrentId}");
+					 Thread.Sleep(3000);
+				 },
+				 () => Factorial(5)
+			 );
 		
 		}
 
@@ -78,7 +81,7 @@ namespace TPLLibrary
 
 		public void RunTaskReturnAny()
 		{
-			Task<int> taskFactorial = new Task<int>(() => Factorial(5));
+			Task<int> taskFactorial = new Task<int>(() => FactorialInner(5));
 			taskFactorial.Start();
 
 			Console.WriteLine($"Факториал числа 5 равен {taskFactorial.Result}");
@@ -145,7 +148,7 @@ namespace TPLLibrary
 			Console.WriteLine("Завершение работы метода Display");
 		}
 
-		private int Factorial(int x)
+		private int FactorialInner(int x)
 		{
 			int result = 1;
 

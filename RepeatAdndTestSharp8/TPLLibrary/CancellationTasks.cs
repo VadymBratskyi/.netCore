@@ -54,7 +54,7 @@ namespace TPLLibrary
 
 		}
 
-			private void Factorial(int x, CancellationToken token)
+		private void Factorial(int x, CancellationToken token)
 		{
 			int result = 1;
 			for (int i = 1; i <= x; i++)

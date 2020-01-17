@@ -1,0 +1,6 @@
+2020-01-09 12:33:14.7631 | TRACE | trace message
+2020-01-09 12:33:14.8027 | DEBUG | debug message
+2020-01-09 12:33:14.8027 | INFO | info message
+2020-01-09 12:33:14.8027 | WARN | warn message
+2020-01-09 12:33:14.8027 | ERROR | error message
+2020-01-09 12:33:14.8027 | FATAL | fatal message
